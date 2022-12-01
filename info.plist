@@ -32,7 +32,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>wc</string>
+				<string>ww</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -52,7 +52,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>searching the stickers...</string>
+				<string>gogogo</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -61,7 +61,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>932E3C75-A5E2-4C43-B14B-B190573E9888</string>
+			<string>1A47A645-DB97-46F0-9591-32B0C3A0DD62</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -70,12 +70,12 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>932E3C75-A5E2-4C43-B14B-B190573E9888</key>
+		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<dict>
 			<key>xpos</key>
-			<integer>360</integer>
-			<key>ypos</key>
 			<integer>250</integer>
+			<key>ypos</key>
+			<integer>170</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
