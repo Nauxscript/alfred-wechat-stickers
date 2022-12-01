@@ -1,429 +1,431 @@
+
+
 export default {
   "data": [
     {
       "code": "[旺柴]",
-      "name": "旺柴"
-      "image": "",
+      "name": "旺柴",
+      "key": "doge",
       "keyword": "doge 狗"
     },
     {
       "keyword": "微笑",
       "name": "微笑",
-      "image": "",
+      "key": "smile",
       "code": "/::)"
     },
     {
       "keyword": "伤心",
       "name": "伤心",
-      "image": "",
+      "key": "sad",
       "code": "/::~"
     },
     {
       "keyword": "美女",
       "name": "美女",
-      "image": "",
+      "key": "beauty",
       "code": "/::B"
     },
     {
       "keyword": "发呆",
       "name": "发呆",
-      "image": "",
+      "key": "daze",
       "code": "/::|"
     },
     {
       "keyword": "墨镜",
       "name": "墨镜",
-      "image": "",
+      "key": "sunglasses",
       "code": "/:8-)"
     },
     {
       "keyword": "哭",
       "name": "哭",
-      "image": "",
+      "key": "cry",
       "code": "/::<"
     },
     {
       "keyword": "羞",
       "name": "羞",
-      "image": "",
+      "key": "",
       "code": "/::$"
     },
     {
       "keyword": "哑",
       "name": "哑",
-      "image": "",
+      "key": "",
       "code": "/::X"
     },
     {
       "keyword": "睡",
       "name": "睡",
-      "image": "",
+      "key": "",
       "code": "/::Z"
     },
     {
       "keyword": "哭",
       "name": "哭",
-      "image": "",
+      "key": "",
       "code": "/::’("
     },
     {
       "keyword": "囧",
       "name": "囧",
-      "image": "",
+      "key": "",
       "code": "/::-|"
     },
     {
       "keyword": "怒",
       "name": "怒",
-      "image": "",
+      "key": "",
       "code": "/::@"
     },
     {
       "keyword": "调皮",
       "name": "调皮",
-      "image": "",
+      "key": "",
       "code": "/::P"
     },
     {
       "keyword": "笑",
       "name": "笑",
-      "image": "",
+      "key": "",
       "code": "/::D"
     },
     {
       "keyword": "惊讶",
       "name": "惊讶",
-      "image": "",
+      "key": "",
       "code": "/::O"
     },
     {
       "keyword": "难过",
       "name": "难过",
-      "image": "",
+      "key": "",
       "code": "/::("
     },
     {
       "keyword": "酷",
       "name": "酷",
-      "image": "",
+      "key": "",
       "code": "/::+"
     },
     {
       "keyword": "汗",
       "name": "汗",
-      "image": "",
+      "key": "",
       "code": "/:–b"
     },
     {
       "keyword": "抓狂",
       "name": "抓狂",
-      "image": "",
+      "key": "",
       "code": "/::Q"
     },
     {
       "keyword": "吐",
       "name": "吐",
-      "image": "",
+      "key": "",
       "code": "/::T"
     },
     {
       "keyword": "笑",
       "name": "笑",
-      "image": "",
+      "key": "",
       "code": "/:,@P"
     },
     {
       "keyword": "快乐",
       "name": "快乐",
-      "image": "",
+      "key": "",
       "code": "/:,@-D"
     },
     {
       "keyword": "奇",
       "name": "奇",
-      "image": "",
+      "key": "",
       "code": "/::d"
     },
     {
       "keyword": "傲",
       "name": "傲",
-      "image": "",
+      "key": "",
       "code": "/:,@o"
     },
     {
       "keyword": "饿",
       "name": "饿",
-      "image": "",
+      "key": "",
       "code": "/::g"
     },
     {
       "keyword": "累",
       "name": "累",
-      "image": "",
+      "key": "",
       "code": "/:|-)"
     },
     {
       "keyword": "吓",
       "name": "吓",
-      "image": "",
+      "key": "",
       "code": "/::!"
     },
     {
       "keyword": "汗",
       "name": "汗",
-      "image": "",
+      "key": "",
       "code": "/::L"
     },
     {
       "keyword": "高兴",
       "name": "高兴",
-      "image": "",
+      "key": "",
       "code": "/::>"
     },
     {
       "keyword": "闲",
       "name": "闲",
-      "image": "",
+      "key": "",
       "code": "/::,@"
     },
     {
       "keyword": "努力",
       "name": "努力",
-      "image": "",
+      "key": "",
       "code": "/:,@f"
     },
     {
       "keyword": "骂",
       "name": "骂",
-      "image": "",
+      "key": "",
       "code": "/::-S"
     },
     {
       "keyword": "疑问",
       "name": "疑问",
-      "image": "",
+      "key": "",
       "code": "/:?"
     },
     {
       "keyword": "秘密",
       "name": "秘密",
-      "image": "",
+      "key": "",
       "code": "/:,@x"
     },
     {
       "keyword": "乱",
       "name": "乱",
-      "image": "",
+      "key": "",
       "code": "/:,@@"
     },
     {
       "keyword": "疯",
       "name": "疯",
-      "image": "",
+      "key": "",
       "code": "/::8"
     },
     {
       "keyword": "哀",
       "name": "哀",
-      "image": "",
+      "key": "",
       "code": "/:,@!"
     },
     {
       "keyword": "鬼",
       "name": "鬼",
-      "image": "",
+      "key": "",
       "code": "/:!!!"
     },
     {
       "keyword": "打击",
       "name": "打击",
-      "image": "",
+      "key": "",
       "code": "/:xx"
     },
     {
       "keyword": "bye",
       "name": "bye",
-      "image": "",
+      "key": "",
       "code": "/:bye"
     },
     {
       "keyword": "汗",
       "name": "汗",
-      "image": "",
+      "key": "",
       "code": "/:wipe"
     },
     {
       "keyword": "抠",
       "name": "抠",
-      "image": "",
+      "key": "",
       "code": "/:dig"
     },
     {
       "keyword": "鼓掌",
       "name": "鼓掌",
-      "image": "",
+      "key": "",
       "code": "/:handclap"
     },
     {
       "keyword": "糟糕",
       "name": "糟糕",
-      "image": "",
+      "key": "",
       "code": "/:&-("
     },
     {
       "keyword": "恶搞",
       "name": "恶搞",
-      "image": "",
+      "key": "",
       "code": "/:B-)"
     },
     {
       "keyword": "什么",
       "name": "什么",
-      "image": "",
+      "key": "",
       "code": "/:<@"
     },
     {
       "keyword": "什么",
       "name": "什么",
-      "image": "",
+      "key": "",
       "code": "/:@>"
     },
     {
       "keyword": "累",
       "name": "累",
-      "image": "",
+      "key": "",
       "code": "/::-O"
     },
     {
       "keyword": "看",
       "name": "看",
-      "image": "",
+      "key": "",
       "code": "/:>-|"
     },
     {
       "keyword": "难过",
       "name": "难过",
-      "image": "",
+      "key": "",
       "code": "/:P-("
     },
     {
       "keyword": "难过",
       "name": "难过",
-      "image": "",
+      "key": "",
       "code": "/::’|"
     },
     {
       "keyword": "坏",
       "name": "坏",
-      "image": "",
+      "key": "",
       "code": "/:X-)"
     },
     {
       "keyword": "亲",
       "name": "亲",
-      "image": "",
+      "key": "",
       "code": "/::*"
     },
     {
       "keyword": "吓",
       "name": "吓",
-      "image": "",
+      "key": "",
       "code": "/:@x"
     },
     {
       "keyword": "可怜",
       "name": "可怜",
-      "image": "",
+      "key": "",
       "code": "/:8*"
     },
     {
       "keyword": "刀",
       "name": "刀",
-      "image": "",
+      "key": "",
       "code": "/:pd"
     },
     {
       "keyword": "水果",
       "name": "水果",
-      "image": "",
+      "key": "",
       "code": "/:<W>"
     },
     {
       "keyword": "酒",
       "name": "酒",
-      "image": "",
+      "key": "",
       "code": "/:beer"
     },
     {
       "keyword": "篮球",
       "name": "篮球",
-      "image": "",
+      "key": "",
       "code": "/:basketb"
     },
     {
       "keyword": "乒乓",
       "name": "乒乓",
-      "image": "",
+      "key": "",
       "code": "/:oo"
     },
     {
       "keyword": "咖啡",
       "name": "咖啡",
-      "image": "",
+      "key": "",
       "code": "/:coffee"
     },
     {
       "keyword": "美食",
       "name": "美食",
-      "image": "",
+      "key": "",
       "code": "/:eat"
     },
     {
       "keyword": "动物",
       "name": "动物",
-      "image": "",
+      "key": "",
       "code": "/:pig"
     },
     {
       "keyword": "鲜花",
       "name": "鲜花",
-      "image": "",
+      "key": "",
       "code": "/:rose"
     },
     {
       "keyword": "枯",
       "name": "枯",
-      "image": "",
+      "key": "",
       "code": "/:fade"
     },
     {
       "keyword": "唇",
       "name": "唇",
-      "image": "",
+      "key": "",
       "code": "/:showlove"
     },
     {
       "keyword": "爱",
       "name": "爱",
-      "image": "",
+      "key": "",
       "code": "/:heart"
     },
     {
       "keyword": "分手",
       "name": "分手",
-      "image": "",
+      "key": "",
       "code": "/:break"
     },
     {
       "keyword": "生日",
       "name": "生日",
-      "image": "",
+      "key": "",
       "code": "/:cake"
     },
     {
       "keyword": "电",
       "name": "电",
-      "image": "",
+      "key": "",
       "code": "/:li"
     },
   ]
