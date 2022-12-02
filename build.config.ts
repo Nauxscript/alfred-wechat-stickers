@@ -1,13 +1,22 @@
 import { defineBuildConfig } from 'unbuild'
 
 export default defineBuildConfig({
-  // If entries is not provided, will be automatically inferred from package.json
   entries: [
-    // default
     './src/index',
-    // mkdist builder transpiles file-to-file keeping original sources structure
   ],
-  
-  // Generates .d.ts declaration file
-  declaration: true,
+  hooks: {
+    'rollup:options': (ctx, option) => {
+      (option.output instanceof Array) && option.output.push(
+        {
+          name: 'run',
+          dir: ctx.options.outDir,
+          format: 'iife',
+          exports: 'auto',
+          preferConst: true,
+          externalLiveBindings: false,
+          freeze: false,
+        },
+      )
+    },
+  },
 })
