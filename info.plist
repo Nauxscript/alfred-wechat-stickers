@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>Nauxscript</string>
+	<string>nauxscript.workflow.alfred-wechat-stickers</string>
+	<key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
@@ -23,7 +25,7 @@
 	<key>createdby</key>
 	<string>Nauxscript</string>
 	<key>description</key>
-	<string>Wechat Stickers Search</string>
+	<string>make wechat's stickers inputing easily.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -64,9 +66,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
+				<string>比如：doge \ 笑 \ 尴尬 等</string>
 				<key>title</key>
-				<string>gogogo</string>
+				<string>根据你的直觉键入表情关键词 \ 拼音 \ 首字母搜索...</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -106,9 +108,9 @@
 		<key>09857D2F-1057-4384-8BF6-74F4AD3014E2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>495</integer>
+			<integer>500</integer>
 			<key>ypos</key>
-			<integer>175</integer>
+			<integer>170</integer>
 		</dict>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<dict>
@@ -119,6 +121,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/Nauxscript/alfred-wechat-stickers</string>
 </dict>
 </plist>
