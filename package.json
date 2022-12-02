@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "unbuild"
   },
-  "types": "./dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "author": "Nauxscript",
   "license": "MIT",
   "devDependencies": {
