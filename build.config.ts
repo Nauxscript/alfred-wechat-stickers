@@ -12,7 +12,9 @@ export default defineBuildConfig({
           dir: ctx.options.outDir,
           format: 'iife',
           exports: 'auto',
-          preferConst: true,
+          generatedCode: {
+            constBindings: true,
+          },
           externalLiveBindings: false,
           freeze: false,
         },
