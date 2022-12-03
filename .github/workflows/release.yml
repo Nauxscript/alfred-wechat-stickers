@@ -27,9 +27,9 @@ jobs:
         run: ./build.sh
 
       - uses: actions/upload-artifact@main
-      with:
-        name: alfred-wechat-sticker.alfredworkflow
-        path: alfred-wechat-sticker.alfredworkflow
+        with:
+          name: alfred-wechat-sticker.alfredworkflow
+          path: alfred-wechat-sticker.alfredworkflow
       
       - run: npx changelogithub # or changelogithub@0.12 if ensure the stable result
         env:
