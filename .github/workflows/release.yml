@@ -17,6 +17,42 @@ jobs:
         with:
           node-version: 16.x
 
-      - run: npx changelogithub # or changelogithub@0.12 if ensure the stable result
-        env:
-          GITHUB_TOKEN: ${{secrets.G_TOKEN}}
+
+      - name: Build
+        run: npm run build
+
+      - name: Setup files
+      - run: |
+          # refer to https://blog.csdn.net/qq_20417499/article/details/103308076
+          # this script's parent directory
+          cd $(dirname $0)
+          parentDir=$(pwd)
+          mkdir release 
+          cd dist
+          echo "setup files ..."
+          cp ${parentDir}/info.plist ./ 
+          cp ${parentDir}/icon.png ./ 
+          cp -r ${parentDir}/icons ./ 
+          rm ./index.mjs
+
+          echo "Updating version ..."
+          curVersion=$(node -e "console.log(require('${parentDir}/package.json').version)")
+          sed -i '' 's/{{version}}/'${curVersion}'/' info.plist
+
+          echo "Bundling workflow ..."
+          name=$(node -e "console.log(require('${parentDir}/package.json').name)")
+          zip -Z deflate -rq9 ${parentDir}/release/${name}.alfredworkflow * -x etc
+      
+      - name: Release
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Workflow Build"
+          files: |
+            release
+            *.alfredworkflow
+      # - run: npx changelogithub # or changelogithub@0.12 if ensure the stable result
+      #   env:
+      #     GITHUB_TOKEN: ${{secrets.G_TOKEN}}
