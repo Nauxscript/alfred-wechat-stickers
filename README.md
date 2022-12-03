@@ -2,7 +2,7 @@
 
 <p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/src/icon.png"></p>
 
-<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/assets/preview.gif"></p>
+<p align="center"><img src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/assets/preview.gif"></p>
 
 an Alfred workflow that makes it easy to pick / copy / input a wechat's stickers.
 
