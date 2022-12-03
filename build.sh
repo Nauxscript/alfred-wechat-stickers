@@ -20,9 +20,11 @@ cp -r ${parentDir}/icons ./
 
 rm ./index.mjs
 
+ls
+
 echo "Updating version ..."
 curVersion=$(node -e "console.log(require('${parentDir}/package.json').version)")
-sed -i '' 's/{{version}}/'${curVersion}'/' info.plist
+sed -i '' 's/{{version}}/'${curVersion}'/' ./info.plist
  
 echo "Bundling workflow ..."
 name=$(node -e "console.log(require('${parentDir}/package.json').name)")
