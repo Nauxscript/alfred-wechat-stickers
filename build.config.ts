@@ -6,7 +6,7 @@ export default defineBuildConfig({
   ],
   hooks: {
     'rollup:options': (ctx, option) => {
-      (option.output instanceof Array) && option.output.push(
+      (Array.isArray(option.output)) && option.output.push(
         {
           name: 'run',
           dir: ctx.options.outDir,

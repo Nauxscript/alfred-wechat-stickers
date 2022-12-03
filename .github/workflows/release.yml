@@ -29,9 +29,9 @@ jobs:
       - name: Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "alfred-wechat-sticker.alfredworkflow"
+          artifacts: alfred-wechat-sticker.alfredworkflow
           token: ${{ secrets.G_TOKEN }}
-      
+
       - run: npx changelogithub # or changelogithub@0.12 if ensure the stable result
         env:
           GITHUB_TOKEN: ${{secrets.G_TOKEN}}
