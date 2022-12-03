@@ -26,10 +26,11 @@ jobs:
       - name: Setup release files
         run: ./build.sh
 
-      - uses: actions/upload-artifact@main
+      - name: Release
+        uses: ncipollo/release-action@v1
         with:
-          name: alfred-wechat-sticker.alfredworkflow
-          path: alfred-wechat-sticker.alfredworkflow
+          artifacts: "alfred-wechat-sticker.alfredworkflowp"
+          token: ${{ secrets.G_TOKEN }}
       
       - run: npx changelogithub # or changelogithub@0.12 if ensure the stable result
         env:
