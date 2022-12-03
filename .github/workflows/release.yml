@@ -43,8 +43,7 @@ jobs:
           name=$(node -e "console.log(require('${parentDir}/package.json').name)")
           zip -Z deflate -rq9 ${parentDir}/release/${name}.alfredworkflow * -x etc
       
-      - name: Release
-        uses: "marvinpinto/action-automatic-releases@latest"
+      - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
