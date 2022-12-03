@@ -8,22 +8,24 @@ set -e
 # this script's parent directory
 cd $(dirname $0)
 parentDir=$(pwd)
-curVersion=$(node -e "console.log(require('${parentDir}/package.json').version)")
-name=$(node -e "console.log(require('${parentDir}/package.json').name)")
 
 rm -rf release
 mkdir release 
 
 cd dist
 echo "setup files ..."
-
 cp ${parentDir}/info.plist ./ 
 cp ${parentDir}/icon.png ./ 
 cp -r ${parentDir}/icons ./ 
 
 rm ./index.mjs
+
+echo "Updating version ..."
+curVersion=$(node -e "console.log(require('${parentDir}/package.json').version)")
+sed -i '' 's/{{version}}/'${curVersion}'/' info.plist
  
 echo "Bundling workflow ..."
+name=$(node -e "console.log(require('${parentDir}/package.json').name)")
 zip -Z deflate -rq9 ${parentDir}/release/${name}.alfredworkflow * -x etc
 
 cd ..

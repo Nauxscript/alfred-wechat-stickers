@@ -120,6 +120,8 @@
 			<integer>170</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+  <string>{{version}}</string>
 	<key>webaddress</key>
 	<string>https://github.com/Nauxscript/alfred-wechat-stickers</string>
 </dict>
