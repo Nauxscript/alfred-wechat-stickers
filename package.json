@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "unbuild",
-    "release": "pnpm build && ./build.sh"
+    "local-release": "pnpm build && ./build.sh"
   },
   "author": "Nauxscript",
   "license": "MIT",
