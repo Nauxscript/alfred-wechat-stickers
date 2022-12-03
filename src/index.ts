@@ -1,20 +1,19 @@
 import type { Sticker } from './index.d'
-import stickersData from './stickersData'
+import stickersData from './stickersData.json'
 const iconPath = './icons'
 // const data = await alfy.fetch('https://jsonplaceholder.typicode.com/posts');
-const data = JSON.parse(JSON.stringify(stickersData)).data as Sticker[]
 
 const parseData = (stickers: Sticker[]) => {
   return stickers.map(element => ({
-    title: element.name,
-    subtitle: element.keyword,
-    arg: element.code,
+    title: element.key,
+    subtitle: element.key,
+    arg: `[${element.key}]`,
     icon: {
       path: element.key ? `${iconPath}/${element.key}.png` : `${iconPath}/default.png`,
     },
     mods: {
       ctrl: {
-        arg: element.code,
+        arg: `[${element.key}]`,
         subtitle: 'Copy and paste',
       },
     },
@@ -23,9 +22,9 @@ const parseData = (stickers: Sticker[]) => {
 
 const searchFn = (query: string) => {
   if (!query)
-    return parseData(data)
+    return parseData(stickersData.data)
 
-  const matches = data.filter(element => element.keyword.includes(query))
+  const matches = stickersData.data.filter(element => element.key.includes(query))
   return parseData(matches)
 }
 
