@@ -1,15 +1,14 @@
 # Alfred-Wechat-Sticker
 
-<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/icon.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/src/icon.png"></p>
 
-
-<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/master/icon.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/master/assets/preview.gif"></p>
 
 an Alfred workflow that makes it easy to pick / copy / input a wechat's stickers.
 
 ## Install
 
-[Download](...Todo)
+[Download](https://github.com/Nauxscript/alfred-wechat-stickers/releases)
 
 ## Usage
 

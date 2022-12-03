@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>Nauxscript</string>
 	<key>description</key>
-	<string>make wechat's stickers inputing easily.</string>
+	<string>an Alfred workflow that makes it easy to pick / copy / input a wechat's stickers.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
