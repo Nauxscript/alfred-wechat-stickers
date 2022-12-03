@@ -27,6 +27,3 @@ sed -i '' 's/{{version}}/'${curVersion}'/' info.plist
 echo "Bundling workflow ..."
 name=$(node -e "console.log(require('${parentDir}/package.json').name)")
 zip -Z deflate -rq9 ${parentDir}/release/${name}.alfredworkflow * -x etc
-
-cd ..
-rm -rf ./dist
