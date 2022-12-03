@@ -1,6 +1,6 @@
 # Alfred-Wechat-Sticker
 
-<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/master/icon.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/icon.png"></p>
 
 
 <p align="center"><img width=12.5% src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/master/icon.png"></p>
