@@ -8,9 +8,7 @@ const files = fs.readdirSync('./icons')
 
 const iconFiles = files.filter((icon) => {
   return path.extname(icon).toLowerCase() === '.png'
-}).map(icon => ({
-  key: icon,
-}))
+})
 
 const fileString2jsonString = (fileObj: any) => {
   const obj = { data: fileObj }
