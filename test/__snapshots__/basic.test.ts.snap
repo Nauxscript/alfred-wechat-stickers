@@ -1,0 +1,1282 @@
+// Vitest Snapshot v1
+
+exports[`index entry > query string is empty 1`] = `
+{
+  "items": [
+    {
+      "arg": "[Emm]",
+      "icon": {
+        "path": "./icons/Emm.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[Emm]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "Emm",
+      "title": "Emm",
+    },
+    {
+      "arg": "[OK]",
+      "icon": {
+        "path": "./icons/OK.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[OK]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "OK",
+      "title": "OK",
+    },
+    {
+      "arg": "[亲亲]",
+      "icon": {
+        "path": "./icons/亲亲.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[亲亲]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "亲亲",
+      "title": "亲亲",
+    },
+    {
+      "arg": "[便便]",
+      "icon": {
+        "path": "./icons/便便.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[便便]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "便便",
+      "title": "便便",
+    },
+    {
+      "arg": "[偷笑]",
+      "icon": {
+        "path": "./icons/偷笑.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[偷笑]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "偷笑",
+      "title": "偷笑",
+    },
+    {
+      "arg": "[傲慢]",
+      "icon": {
+        "path": "./icons/傲慢.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[傲慢]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "傲慢",
+      "title": "傲慢",
+    },
+    {
+      "arg": "[再见]",
+      "icon": {
+        "path": "./icons/再见.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[再见]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "再见",
+      "title": "再见",
+    },
+    {
+      "arg": "[凋谢]",
+      "icon": {
+        "path": "./icons/凋谢.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[凋谢]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "凋谢",
+      "title": "凋谢",
+    },
+    {
+      "arg": "[加油]",
+      "icon": {
+        "path": "./icons/加油.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[加油]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "加油",
+      "title": "加油",
+    },
+    {
+      "arg": "[勾引]",
+      "icon": {
+        "path": "./icons/勾引.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[勾引]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "勾引",
+      "title": "勾引",
+    },
+    {
+      "arg": "[发呆]",
+      "icon": {
+        "path": "./icons/发呆.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[发呆]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "发呆",
+      "title": "发呆",
+    },
+    {
+      "arg": "[发怒]",
+      "icon": {
+        "path": "./icons/发怒.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[发怒]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "发怒",
+      "title": "发怒",
+    },
+    {
+      "arg": "[发抖]",
+      "icon": {
+        "path": "./icons/发抖.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[发抖]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "发抖",
+      "title": "发抖",
+    },
+    {
+      "arg": "[可怜]",
+      "icon": {
+        "path": "./icons/可怜.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[可怜]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "可怜",
+      "title": "可怜",
+    },
+    {
+      "arg": "[右哼哼]",
+      "icon": {
+        "path": "./icons/右哼哼.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[右哼哼]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "右哼哼",
+      "title": "右哼哼",
+    },
+    {
+      "arg": "[吃瓜]",
+      "icon": {
+        "path": "./icons/吃瓜.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[吃瓜]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "吃瓜",
+      "title": "吃瓜",
+    },
+    {
+      "arg": "[吐]",
+      "icon": {
+        "path": "./icons/吐.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[吐]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "吐",
+      "title": "吐",
+    },
+    {
+      "arg": "[呲牙]",
+      "icon": {
+        "path": "./icons/呲牙.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[呲牙]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "呲牙",
+      "title": "呲牙",
+    },
+    {
+      "arg": "[咒骂]",
+      "icon": {
+        "path": "./icons/咒骂.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[咒骂]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "咒骂",
+      "title": "咒骂",
+    },
+    {
+      "arg": "[咖啡]",
+      "icon": {
+        "path": "./icons/咖啡.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[咖啡]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "咖啡",
+      "title": "咖啡",
+    },
+    {
+      "arg": "[哇]",
+      "icon": {
+        "path": "./icons/哇.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[哇]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "哇",
+      "title": "哇",
+    },
+    {
+      "arg": "[啤酒]",
+      "icon": {
+        "path": "./icons/啤酒.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[啤酒]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "啤酒",
+      "title": "啤酒",
+    },
+    {
+      "arg": "[嘘]",
+      "icon": {
+        "path": "./icons/嘘.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[嘘]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "嘘",
+      "title": "嘘",
+    },
+    {
+      "arg": "[嘴唇]",
+      "icon": {
+        "path": "./icons/嘴唇.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[嘴唇]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "嘴唇",
+      "title": "嘴唇",
+    },
+    {
+      "arg": "[嘿哈]",
+      "icon": {
+        "path": "./icons/嘿哈.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[嘿哈]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "嘿哈",
+      "title": "嘿哈",
+    },
+    {
+      "arg": "[囧]",
+      "icon": {
+        "path": "./icons/囧.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[囧]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "囧",
+      "title": "囧",
+    },
+    {
+      "arg": "[困]",
+      "icon": {
+        "path": "./icons/困.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[困]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "困",
+      "title": "困",
+    },
+    {
+      "arg": "[坏笑]",
+      "icon": {
+        "path": "./icons/坏笑.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[坏笑]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "坏笑",
+      "title": "坏笑",
+    },
+    {
+      "arg": "[大哭]",
+      "icon": {
+        "path": "./icons/大哭.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[大哭]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "大哭",
+      "title": "大哭",
+    },
+    {
+      "arg": "[天啊]",
+      "icon": {
+        "path": "./icons/天啊.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[天啊]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "天啊",
+      "title": "天啊",
+    },
+    {
+      "arg": "[太阳]",
+      "icon": {
+        "path": "./icons/太阳.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[太阳]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "太阳",
+      "title": "太阳",
+    },
+    {
+      "arg": "[奸笑]",
+      "icon": {
+        "path": "./icons/奸笑.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[奸笑]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "奸笑",
+      "title": "奸笑",
+    },
+    {
+      "arg": "[好的]",
+      "icon": {
+        "path": "./icons/好的.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[好的]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "好的",
+      "title": "好的",
+    },
+    {
+      "arg": "[委屈]",
+      "icon": {
+        "path": "./icons/委屈.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[委屈]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "委屈",
+      "title": "委屈",
+    },
+    {
+      "arg": "[害羞]",
+      "icon": {
+        "path": "./icons/害羞.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[害羞]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "害羞",
+      "title": "害羞",
+    },
+    {
+      "arg": "[尴尬]",
+      "icon": {
+        "path": "./icons/尴尬.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[尴尬]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "尴尬",
+      "title": "尴尬",
+    },
+    {
+      "arg": "[弱]",
+      "icon": {
+        "path": "./icons/弱.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[弱]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "弱",
+      "title": "弱",
+    },
+    {
+      "arg": "[强]",
+      "icon": {
+        "path": "./icons/强.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[强]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "强",
+      "title": "强",
+    },
+    {
+      "arg": "[得意]",
+      "icon": {
+        "path": "./icons/得意.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[得意]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "得意",
+      "title": "得意",
+    },
+    {
+      "arg": "[微笑]",
+      "icon": {
+        "path": "./icons/微笑.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[微笑]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "微笑",
+      "title": "微笑",
+    },
+    {
+      "arg": "[心碎]",
+      "icon": {
+        "path": "./icons/心碎.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[心碎]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "心碎",
+      "title": "心碎",
+    },
+    {
+      "arg": "[快哭了]",
+      "icon": {
+        "path": "./icons/快哭了.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[快哭了]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "快哭了",
+      "title": "快哭了",
+    },
+    {
+      "arg": "[悠闲]",
+      "icon": {
+        "path": "./icons/悠闲.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[悠闲]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "悠闲",
+      "title": "悠闲",
+    },
+    {
+      "arg": "[惊恐]",
+      "icon": {
+        "path": "./icons/惊恐.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[惊恐]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "惊恐",
+      "title": "惊恐",
+    },
+    {
+      "arg": "[惊讶]",
+      "icon": {
+        "path": "./icons/惊讶.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[惊讶]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "惊讶",
+      "title": "惊讶",
+    },
+    {
+      "arg": "[愉快]",
+      "icon": {
+        "path": "./icons/愉快.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[愉快]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "愉快",
+      "title": "愉快",
+    },
+    {
+      "arg": "[憨笑]",
+      "icon": {
+        "path": "./icons/憨笑.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[憨笑]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "憨笑",
+      "title": "憨笑",
+    },
+    {
+      "arg": "[打脸]",
+      "icon": {
+        "path": "./icons/打脸.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[打脸]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "打脸",
+      "title": "打脸",
+    },
+    {
+      "arg": "[抓狂]",
+      "icon": {
+        "path": "./icons/抓狂.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[抓狂]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "抓狂",
+      "title": "抓狂",
+    },
+    {
+      "arg": "[抠鼻]",
+      "icon": {
+        "path": "./icons/抠鼻.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[抠鼻]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "抠鼻",
+      "title": "抠鼻",
+    },
+    {
+      "arg": "[抱拳]",
+      "icon": {
+        "path": "./icons/抱拳.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[抱拳]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "抱拳",
+      "title": "抱拳",
+    },
+    {
+      "arg": "[拥抱]",
+      "icon": {
+        "path": "./icons/拥抱.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[拥抱]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "拥抱",
+      "title": "拥抱",
+    },
+    {
+      "arg": "[拳头]",
+      "icon": {
+        "path": "./icons/拳头.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[拳头]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "拳头",
+      "title": "拳头",
+    },
+    {
+      "arg": "[捂脸]",
+      "icon": {
+        "path": "./icons/捂脸.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[捂脸]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "捂脸",
+      "title": "捂脸",
+    },
+    {
+      "arg": "[握手]",
+      "icon": {
+        "path": "./icons/握手.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[握手]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "握手",
+      "title": "握手",
+    },
+    {
+      "arg": "[撇嘴]",
+      "icon": {
+        "path": "./icons/撇嘴.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[撇嘴]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "撇嘴",
+      "title": "撇嘴",
+    },
+    {
+      "arg": "[擦汗]",
+      "icon": {
+        "path": "./icons/擦汗.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[擦汗]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "擦汗",
+      "title": "擦汗",
+    },
+    {
+      "arg": "[敲打]",
+      "icon": {
+        "path": "./icons/敲打.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[敲打]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "敲打",
+      "title": "敲打",
+    },
+    {
+      "arg": "[旺柴]",
+      "icon": {
+        "path": "./icons/旺柴.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[旺柴]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "旺柴",
+      "title": "旺柴",
+    },
+    {
+      "arg": "[晕]",
+      "icon": {
+        "path": "./icons/晕.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[晕]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "晕",
+      "title": "晕",
+    },
+    {
+      "arg": "[月亮]",
+      "icon": {
+        "path": "./icons/月亮.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[月亮]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "月亮",
+      "title": "月亮",
+    },
+    {
+      "arg": "[机智]",
+      "icon": {
+        "path": "./icons/机智.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[机智]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "机智",
+      "title": "机智",
+    },
+    {
+      "arg": "[汗]",
+      "icon": {
+        "path": "./icons/汗.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[汗]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "汗",
+      "title": "汗",
+    },
+    {
+      "arg": "[流泪]",
+      "icon": {
+        "path": "./icons/流泪.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[流泪]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "流泪",
+      "title": "流泪",
+    },
+    {
+      "arg": "[炸弹]",
+      "icon": {
+        "path": "./icons/炸弹.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[炸弹]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "炸弹",
+      "title": "炸弹",
+    },
+    {
+      "arg": "[爱心]",
+      "icon": {
+        "path": "./icons/爱心.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[爱心]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "爱心",
+      "title": "爱心",
+    },
+    {
+      "arg": "[猪头]",
+      "icon": {
+        "path": "./icons/猪头.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[猪头]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "猪头",
+      "title": "猪头",
+    },
+    {
+      "arg": "[玫瑰]",
+      "icon": {
+        "path": "./icons/玫瑰.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[玫瑰]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "玫瑰",
+      "title": "玫瑰",
+    },
+    {
+      "arg": "[疑问]",
+      "icon": {
+        "path": "./icons/疑问.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[疑问]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "疑问",
+      "title": "疑问",
+    },
+    {
+      "arg": "[發]",
+      "icon": {
+        "path": "./icons/發.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[發]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "發",
+      "title": "發",
+    },
+    {
+      "arg": "[白眼]",
+      "icon": {
+        "path": "./icons/白眼.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[白眼]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "白眼",
+      "title": "白眼",
+    },
+    {
+      "arg": "[皱眉]",
+      "icon": {
+        "path": "./icons/皱眉.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[皱眉]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "皱眉",
+      "title": "皱眉",
+    },
+    {
+      "arg": "[睡]",
+      "icon": {
+        "path": "./icons/睡.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[睡]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "睡",
+      "title": "睡",
+    },
+    {
+      "arg": "[礼物]",
+      "icon": {
+        "path": "./icons/礼物.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[礼物]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "礼物",
+      "title": "礼物",
+    },
+    {
+      "arg": "[社会社会]",
+      "icon": {
+        "path": "./icons/社会社会.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[社会社会]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "社会社会",
+      "title": "社会社会",
+    },
+    {
+      "arg": "[福]",
+      "icon": {
+        "path": "./icons/福.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[福]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "福",
+      "title": "福",
+    },
+    {
+      "arg": "[红包]",
+      "icon": {
+        "path": "./icons/红包.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[红包]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "红包",
+      "title": "红包",
+    },
+    {
+      "arg": "[胜利]",
+      "icon": {
+        "path": "./icons/胜利.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[胜利]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "胜利",
+      "title": "胜利",
+    },
+    {
+      "arg": "[色]",
+      "icon": {
+        "path": "./icons/色.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[色]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "色",
+      "title": "色",
+    },
+    {
+      "arg": "[菜刀]",
+      "icon": {
+        "path": "./icons/菜刀.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[菜刀]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "菜刀",
+      "title": "菜刀",
+    },
+    {
+      "arg": "[蛋糕]",
+      "icon": {
+        "path": "./icons/蛋糕.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[蛋糕]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "蛋糕",
+      "title": "蛋糕",
+    },
+    {
+      "arg": "[衰]",
+      "icon": {
+        "path": "./icons/衰.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[衰]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "衰",
+      "title": "衰",
+    },
+    {
+      "arg": "[调皮]",
+      "icon": {
+        "path": "./icons/调皮.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[调皮]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "调皮",
+      "title": "调皮",
+    },
+    {
+      "arg": "[跳跳]",
+      "icon": {
+        "path": "./icons/跳跳.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[跳跳]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "跳跳",
+      "title": "跳跳",
+    },
+    {
+      "arg": "[转圈]",
+      "icon": {
+        "path": "./icons/转圈.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[转圈]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "转圈",
+      "title": "转圈",
+    },
+    {
+      "arg": "[鄙视]",
+      "icon": {
+        "path": "./icons/鄙视.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[鄙视]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "鄙视",
+      "title": "鄙视",
+    },
+    {
+      "arg": "[闭嘴]",
+      "icon": {
+        "path": "./icons/闭嘴.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[闭嘴]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "闭嘴",
+      "title": "闭嘴",
+    },
+    {
+      "arg": "[阴险]",
+      "icon": {
+        "path": "./icons/阴险.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[阴险]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "阴险",
+      "title": "阴险",
+    },
+    {
+      "arg": "[难过]",
+      "icon": {
+        "path": "./icons/难过.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[难过]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "难过",
+      "title": "难过",
+    },
+    {
+      "arg": "[骷髅]",
+      "icon": {
+        "path": "./icons/骷髅.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[骷髅]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "骷髅",
+      "title": "骷髅",
+    },
+    {
+      "arg": "[鼓掌]",
+      "icon": {
+        "path": "./icons/鼓掌.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[鼓掌]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "鼓掌",
+      "title": "鼓掌",
+    },
+  ],
+}
+`;
