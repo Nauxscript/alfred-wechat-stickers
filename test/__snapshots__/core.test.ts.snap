@@ -1,0 +1,20 @@
+// Vitest Snapshot v1
+
+exports[`core test > parseData function is ok 1`] = `
+[
+  {
+    "arg": "[旺柴]",
+    "icon": {
+      "path": "./icons/旺柴.png",
+    },
+    "mods": {
+      "ctrl": {
+        "arg": "[旺柴]",
+        "subtitle": "Copy and paste",
+      },
+    },
+    "subtitle": "旺柴",
+    "title": "旺柴",
+  },
+]
+`;
