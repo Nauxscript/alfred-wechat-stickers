@@ -7,33 +7,43 @@ const iconPath = './icons'
 // const allStickersData = JSON.parse(JSON.stringify(stickersData.data)) as Sticker[]
 
 export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelection[] => {
-  return stickers.map(key => ({
-    title: key,
-    subtitle: key,
-    arg: `[${key}]`,
-    icon: {
-      path: `${iconPath}/${key}.png`,
-    },
-    mods: {
-      ctrl: {
-        arg: `[${key}]`,
-        subtitle: 'Copy and paste',
+  return stickers.map((key) => {
+    const name = key.split('-')[0]
+    return {
+      title: name,
+      subtitle: name,
+      arg: `[${name}]`,
+      icon: {
+        path: `${iconPath}/${key}.png`,
       },
-    },
-  }))
+      mods: {
+        ctrl: {
+          arg: `[${name}]`,
+          subtitle: 'Copy and paste',
+        },
+      },
+    }
+  })
 }
 
+// return {
+//     }
+
 export const searchWithKeyword = (query: string) => {
-  return Object.keys(keywordMap).reduce((prev, curr) => {
+  const keywordRes = Object.keys(keywordMap).reduce((prev, curr) => {
     if (curr.includes(query))
       return [...prev, ...keywordMap[curr]]
     return prev
   }, [] as Keys[])
+
+  const keyRes = stickersData.filter(key => key.includes(query))
+  const result = [...new Set([...keywordRes, ...keyRes])] as Keys[]
+  return result
 }
 
 export const searchFn = (query: string) => {
   if (!query)
     return parseData(stickersData, iconPath)
-  const matches = stickersData.filter(key => key.includes(query))
+  const matches = searchWithKeyword(query)
   return parseData(matches, iconPath)
 }

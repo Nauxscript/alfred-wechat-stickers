@@ -8,7 +8,6 @@ export default function run(argv: Array<string | boolean >) {
   const result = { items }
   if (argv[1]) {
     // eslint-disable-next-line no-console
-    console.log(argv[1])
     return result
   }
   // eslint-disable-next-line no-console
