@@ -10,4 +10,9 @@ describe('index entry', () => {
     const result = run(['', true])
     expect(result).toMatchSnapshot()
   })
+
+  it('query with keyword', () => {
+    const result = run(['旺柴', true])
+    expect(result).toMatchSnapshot()
+  })
 })

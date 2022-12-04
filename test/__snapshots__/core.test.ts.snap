@@ -5,7 +5,7 @@ exports[`core test > parseData function is ok 1`] = `
   {
     "arg": "[旺柴]",
     "icon": {
-      "path": "./icons/旺柴.png",
+      "path": "./icons/旺柴-wc.png",
     },
     "mods": {
       "ctrl": {
@@ -16,5 +16,24 @@ exports[`core test > parseData function is ok 1`] = `
     "subtitle": "旺柴",
     "title": "旺柴",
   },
+]
+`;
+
+exports[`core test > searchWithKeyword function is ok 1`] = `
+[
+  "旺柴-wc",
+  "奸笑-jx",
+  "社会社会-shsh",
+  "呲牙-zy",
+  "再见-zj",
+  "皱眉-zm",
+  "偷笑-tx",
+  "坏笑-hx",
+  "色-se",
+  "憨笑-hx",
+  "微笑-wx",
+  "阴险-yx",
+  "愉快-yk",
+  "太阳-ty",
 ]
 `;

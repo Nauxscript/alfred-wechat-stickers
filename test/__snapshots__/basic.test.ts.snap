@@ -34,7 +34,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[亲亲]",
       "icon": {
-        "path": "./icons/亲亲.png",
+        "path": "./icons/亲亲-qq.png",
       },
       "mods": {
         "ctrl": {
@@ -48,7 +48,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[便便]",
       "icon": {
-        "path": "./icons/便便.png",
+        "path": "./icons/便便-bb.png",
       },
       "mods": {
         "ctrl": {
@@ -62,7 +62,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[偷笑]",
       "icon": {
-        "path": "./icons/偷笑.png",
+        "path": "./icons/偷笑-tx.png",
       },
       "mods": {
         "ctrl": {
@@ -76,7 +76,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[傲慢]",
       "icon": {
-        "path": "./icons/傲慢.png",
+        "path": "./icons/傲慢-am.png",
       },
       "mods": {
         "ctrl": {
@@ -90,7 +90,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[再见]",
       "icon": {
-        "path": "./icons/再见.png",
+        "path": "./icons/再见-zj.png",
       },
       "mods": {
         "ctrl": {
@@ -104,7 +104,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[凋谢]",
       "icon": {
-        "path": "./icons/凋谢.png",
+        "path": "./icons/凋谢-dx.png",
       },
       "mods": {
         "ctrl": {
@@ -118,7 +118,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[加油]",
       "icon": {
-        "path": "./icons/加油.png",
+        "path": "./icons/加油-jy.png",
       },
       "mods": {
         "ctrl": {
@@ -132,7 +132,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[勾引]",
       "icon": {
-        "path": "./icons/勾引.png",
+        "path": "./icons/勾引-gy.png",
       },
       "mods": {
         "ctrl": {
@@ -146,7 +146,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[发呆]",
       "icon": {
-        "path": "./icons/发呆.png",
+        "path": "./icons/发呆-fd.png",
       },
       "mods": {
         "ctrl": {
@@ -160,7 +160,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[发怒]",
       "icon": {
-        "path": "./icons/发怒.png",
+        "path": "./icons/发怒-fn.png",
       },
       "mods": {
         "ctrl": {
@@ -174,7 +174,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[发抖]",
       "icon": {
-        "path": "./icons/发抖.png",
+        "path": "./icons/发抖-fd.png",
       },
       "mods": {
         "ctrl": {
@@ -188,7 +188,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[可怜]",
       "icon": {
-        "path": "./icons/可怜.png",
+        "path": "./icons/可怜-kl.png",
       },
       "mods": {
         "ctrl": {
@@ -202,7 +202,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[右哼哼]",
       "icon": {
-        "path": "./icons/右哼哼.png",
+        "path": "./icons/右哼哼-yhh.png",
       },
       "mods": {
         "ctrl": {
@@ -216,7 +216,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[吃瓜]",
       "icon": {
-        "path": "./icons/吃瓜.png",
+        "path": "./icons/吃瓜-cg.png",
       },
       "mods": {
         "ctrl": {
@@ -230,7 +230,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[吐]",
       "icon": {
-        "path": "./icons/吐.png",
+        "path": "./icons/吐-tu.png",
       },
       "mods": {
         "ctrl": {
@@ -244,7 +244,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[呲牙]",
       "icon": {
-        "path": "./icons/呲牙.png",
+        "path": "./icons/呲牙-zy.png",
       },
       "mods": {
         "ctrl": {
@@ -258,7 +258,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[咒骂]",
       "icon": {
-        "path": "./icons/咒骂.png",
+        "path": "./icons/咒骂-zm.png",
       },
       "mods": {
         "ctrl": {
@@ -272,7 +272,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[咖啡]",
       "icon": {
-        "path": "./icons/咖啡.png",
+        "path": "./icons/咖啡-kf.png",
       },
       "mods": {
         "ctrl": {
@@ -286,7 +286,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[哇]",
       "icon": {
-        "path": "./icons/哇.png",
+        "path": "./icons/哇-wa.png",
       },
       "mods": {
         "ctrl": {
@@ -300,7 +300,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[啤酒]",
       "icon": {
-        "path": "./icons/啤酒.png",
+        "path": "./icons/啤酒-pj.png",
       },
       "mods": {
         "ctrl": {
@@ -314,7 +314,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[嘘]",
       "icon": {
-        "path": "./icons/嘘.png",
+        "path": "./icons/嘘-xu.png",
       },
       "mods": {
         "ctrl": {
@@ -328,7 +328,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[嘴唇]",
       "icon": {
-        "path": "./icons/嘴唇.png",
+        "path": "./icons/嘴唇-zc.png",
       },
       "mods": {
         "ctrl": {
@@ -342,7 +342,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[嘿哈]",
       "icon": {
-        "path": "./icons/嘿哈.png",
+        "path": "./icons/嘿哈-hh.png",
       },
       "mods": {
         "ctrl": {
@@ -356,7 +356,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[囧]",
       "icon": {
-        "path": "./icons/囧.png",
+        "path": "./icons/囧-jiong.png",
       },
       "mods": {
         "ctrl": {
@@ -370,7 +370,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[困]",
       "icon": {
-        "path": "./icons/困.png",
+        "path": "./icons/困-kun.png",
       },
       "mods": {
         "ctrl": {
@@ -384,7 +384,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[坏笑]",
       "icon": {
-        "path": "./icons/坏笑.png",
+        "path": "./icons/坏笑-hx.png",
       },
       "mods": {
         "ctrl": {
@@ -398,7 +398,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[大哭]",
       "icon": {
-        "path": "./icons/大哭.png",
+        "path": "./icons/大哭-dk.png",
       },
       "mods": {
         "ctrl": {
@@ -412,7 +412,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[天啊]",
       "icon": {
-        "path": "./icons/天啊.png",
+        "path": "./icons/天啊-ta.png",
       },
       "mods": {
         "ctrl": {
@@ -426,7 +426,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[太阳]",
       "icon": {
-        "path": "./icons/太阳.png",
+        "path": "./icons/太阳-ty.png",
       },
       "mods": {
         "ctrl": {
@@ -440,7 +440,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[奸笑]",
       "icon": {
-        "path": "./icons/奸笑.png",
+        "path": "./icons/奸笑-jx.png",
       },
       "mods": {
         "ctrl": {
@@ -454,7 +454,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[好的]",
       "icon": {
-        "path": "./icons/好的.png",
+        "path": "./icons/好的-hd.png",
       },
       "mods": {
         "ctrl": {
@@ -468,7 +468,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[委屈]",
       "icon": {
-        "path": "./icons/委屈.png",
+        "path": "./icons/委屈-wq.png",
       },
       "mods": {
         "ctrl": {
@@ -482,7 +482,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[害羞]",
       "icon": {
-        "path": "./icons/害羞.png",
+        "path": "./icons/害羞-hx.png",
       },
       "mods": {
         "ctrl": {
@@ -496,7 +496,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[尴尬]",
       "icon": {
-        "path": "./icons/尴尬.png",
+        "path": "./icons/尴尬-gg.png",
       },
       "mods": {
         "ctrl": {
@@ -510,7 +510,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[弱]",
       "icon": {
-        "path": "./icons/弱.png",
+        "path": "./icons/弱-ruo.png",
       },
       "mods": {
         "ctrl": {
@@ -524,7 +524,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[强]",
       "icon": {
-        "path": "./icons/强.png",
+        "path": "./icons/强-qiang.png",
       },
       "mods": {
         "ctrl": {
@@ -538,7 +538,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[得意]",
       "icon": {
-        "path": "./icons/得意.png",
+        "path": "./icons/得意-dy.png",
       },
       "mods": {
         "ctrl": {
@@ -552,7 +552,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[微笑]",
       "icon": {
-        "path": "./icons/微笑.png",
+        "path": "./icons/微笑-wx.png",
       },
       "mods": {
         "ctrl": {
@@ -566,7 +566,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[心碎]",
       "icon": {
-        "path": "./icons/心碎.png",
+        "path": "./icons/心碎-xs.png",
       },
       "mods": {
         "ctrl": {
@@ -580,7 +580,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[快哭了]",
       "icon": {
-        "path": "./icons/快哭了.png",
+        "path": "./icons/快哭了-kkl.png",
       },
       "mods": {
         "ctrl": {
@@ -594,7 +594,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[悠闲]",
       "icon": {
-        "path": "./icons/悠闲.png",
+        "path": "./icons/悠闲-yx.png",
       },
       "mods": {
         "ctrl": {
@@ -608,7 +608,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[惊恐]",
       "icon": {
-        "path": "./icons/惊恐.png",
+        "path": "./icons/惊恐-jk.png",
       },
       "mods": {
         "ctrl": {
@@ -622,7 +622,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[惊讶]",
       "icon": {
-        "path": "./icons/惊讶.png",
+        "path": "./icons/惊讶-jy.png",
       },
       "mods": {
         "ctrl": {
@@ -636,7 +636,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[愉快]",
       "icon": {
-        "path": "./icons/愉快.png",
+        "path": "./icons/愉快-yk.png",
       },
       "mods": {
         "ctrl": {
@@ -650,7 +650,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[憨笑]",
       "icon": {
-        "path": "./icons/憨笑.png",
+        "path": "./icons/憨笑-hx.png",
       },
       "mods": {
         "ctrl": {
@@ -664,7 +664,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[打脸]",
       "icon": {
-        "path": "./icons/打脸.png",
+        "path": "./icons/打脸-dl.png",
       },
       "mods": {
         "ctrl": {
@@ -678,7 +678,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[抓狂]",
       "icon": {
-        "path": "./icons/抓狂.png",
+        "path": "./icons/抓狂-zk.png",
       },
       "mods": {
         "ctrl": {
@@ -692,7 +692,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[抠鼻]",
       "icon": {
-        "path": "./icons/抠鼻.png",
+        "path": "./icons/抠鼻-kb.png",
       },
       "mods": {
         "ctrl": {
@@ -706,7 +706,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[抱拳]",
       "icon": {
-        "path": "./icons/抱拳.png",
+        "path": "./icons/抱拳-bq.png",
       },
       "mods": {
         "ctrl": {
@@ -720,7 +720,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[拥抱]",
       "icon": {
-        "path": "./icons/拥抱.png",
+        "path": "./icons/拥抱-yb.png",
       },
       "mods": {
         "ctrl": {
@@ -734,7 +734,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[拳头]",
       "icon": {
-        "path": "./icons/拳头.png",
+        "path": "./icons/拳头-qt.png",
       },
       "mods": {
         "ctrl": {
@@ -748,7 +748,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[捂脸]",
       "icon": {
-        "path": "./icons/捂脸.png",
+        "path": "./icons/捂脸-wl.png",
       },
       "mods": {
         "ctrl": {
@@ -762,7 +762,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[握手]",
       "icon": {
-        "path": "./icons/握手.png",
+        "path": "./icons/握手-ws.png",
       },
       "mods": {
         "ctrl": {
@@ -776,7 +776,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[撇嘴]",
       "icon": {
-        "path": "./icons/撇嘴.png",
+        "path": "./icons/撇嘴-pz.png",
       },
       "mods": {
         "ctrl": {
@@ -790,7 +790,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[擦汗]",
       "icon": {
-        "path": "./icons/擦汗.png",
+        "path": "./icons/擦汗-ch.png",
       },
       "mods": {
         "ctrl": {
@@ -804,7 +804,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[敲打]",
       "icon": {
-        "path": "./icons/敲打.png",
+        "path": "./icons/敲打-qd.png",
       },
       "mods": {
         "ctrl": {
@@ -818,7 +818,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[旺柴]",
       "icon": {
-        "path": "./icons/旺柴.png",
+        "path": "./icons/旺柴-wc.png",
       },
       "mods": {
         "ctrl": {
@@ -832,7 +832,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[晕]",
       "icon": {
-        "path": "./icons/晕.png",
+        "path": "./icons/晕-yun.png",
       },
       "mods": {
         "ctrl": {
@@ -846,7 +846,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[月亮]",
       "icon": {
-        "path": "./icons/月亮.png",
+        "path": "./icons/月亮-yl.png",
       },
       "mods": {
         "ctrl": {
@@ -860,7 +860,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[机智]",
       "icon": {
-        "path": "./icons/机智.png",
+        "path": "./icons/机智-jz.png",
       },
       "mods": {
         "ctrl": {
@@ -874,7 +874,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[汗]",
       "icon": {
-        "path": "./icons/汗.png",
+        "path": "./icons/汗-han.png",
       },
       "mods": {
         "ctrl": {
@@ -888,7 +888,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[流泪]",
       "icon": {
-        "path": "./icons/流泪.png",
+        "path": "./icons/流泪-ll.png",
       },
       "mods": {
         "ctrl": {
@@ -902,7 +902,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[炸弹]",
       "icon": {
-        "path": "./icons/炸弹.png",
+        "path": "./icons/炸弹-zd.png",
       },
       "mods": {
         "ctrl": {
@@ -916,7 +916,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[爱心]",
       "icon": {
-        "path": "./icons/爱心.png",
+        "path": "./icons/爱心-ax.png",
       },
       "mods": {
         "ctrl": {
@@ -930,7 +930,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[猪头]",
       "icon": {
-        "path": "./icons/猪头.png",
+        "path": "./icons/猪头-zt.png",
       },
       "mods": {
         "ctrl": {
@@ -944,7 +944,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[玫瑰]",
       "icon": {
-        "path": "./icons/玫瑰.png",
+        "path": "./icons/玫瑰-mg.png",
       },
       "mods": {
         "ctrl": {
@@ -958,7 +958,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[疑问]",
       "icon": {
-        "path": "./icons/疑问.png",
+        "path": "./icons/疑问-yw.png",
       },
       "mods": {
         "ctrl": {
@@ -972,7 +972,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[發]",
       "icon": {
-        "path": "./icons/發.png",
+        "path": "./icons/發-fa.png",
       },
       "mods": {
         "ctrl": {
@@ -986,7 +986,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[白眼]",
       "icon": {
-        "path": "./icons/白眼.png",
+        "path": "./icons/白眼-by.png",
       },
       "mods": {
         "ctrl": {
@@ -1000,7 +1000,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[皱眉]",
       "icon": {
-        "path": "./icons/皱眉.png",
+        "path": "./icons/皱眉-zm.png",
       },
       "mods": {
         "ctrl": {
@@ -1014,7 +1014,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[睡]",
       "icon": {
-        "path": "./icons/睡.png",
+        "path": "./icons/睡-shui.png",
       },
       "mods": {
         "ctrl": {
@@ -1028,7 +1028,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[礼物]",
       "icon": {
-        "path": "./icons/礼物.png",
+        "path": "./icons/礼物-lw.png",
       },
       "mods": {
         "ctrl": {
@@ -1042,7 +1042,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[社会社会]",
       "icon": {
-        "path": "./icons/社会社会.png",
+        "path": "./icons/社会社会-shsh.png",
       },
       "mods": {
         "ctrl": {
@@ -1056,7 +1056,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[福]",
       "icon": {
-        "path": "./icons/福.png",
+        "path": "./icons/福-fu.png",
       },
       "mods": {
         "ctrl": {
@@ -1070,7 +1070,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[红包]",
       "icon": {
-        "path": "./icons/红包.png",
+        "path": "./icons/红包-hb.png",
       },
       "mods": {
         "ctrl": {
@@ -1084,7 +1084,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[胜利]",
       "icon": {
-        "path": "./icons/胜利.png",
+        "path": "./icons/胜利-sl.png",
       },
       "mods": {
         "ctrl": {
@@ -1098,7 +1098,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[色]",
       "icon": {
-        "path": "./icons/色.png",
+        "path": "./icons/色-se.png",
       },
       "mods": {
         "ctrl": {
@@ -1112,7 +1112,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[菜刀]",
       "icon": {
-        "path": "./icons/菜刀.png",
+        "path": "./icons/菜刀-cd.png",
       },
       "mods": {
         "ctrl": {
@@ -1126,7 +1126,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[蛋糕]",
       "icon": {
-        "path": "./icons/蛋糕.png",
+        "path": "./icons/蛋糕-dg.png",
       },
       "mods": {
         "ctrl": {
@@ -1140,7 +1140,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[衰]",
       "icon": {
-        "path": "./icons/衰.png",
+        "path": "./icons/衰-shuai.png",
       },
       "mods": {
         "ctrl": {
@@ -1154,7 +1154,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[调皮]",
       "icon": {
-        "path": "./icons/调皮.png",
+        "path": "./icons/调皮-tp.png",
       },
       "mods": {
         "ctrl": {
@@ -1168,7 +1168,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[跳跳]",
       "icon": {
-        "path": "./icons/跳跳.png",
+        "path": "./icons/跳跳-tt.png",
       },
       "mods": {
         "ctrl": {
@@ -1182,7 +1182,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[转圈]",
       "icon": {
-        "path": "./icons/转圈.png",
+        "path": "./icons/转圈-zq.png",
       },
       "mods": {
         "ctrl": {
@@ -1196,7 +1196,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[鄙视]",
       "icon": {
-        "path": "./icons/鄙视.png",
+        "path": "./icons/鄙视-bs.png",
       },
       "mods": {
         "ctrl": {
@@ -1210,7 +1210,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[闭嘴]",
       "icon": {
-        "path": "./icons/闭嘴.png",
+        "path": "./icons/闭嘴-bz.png",
       },
       "mods": {
         "ctrl": {
@@ -1224,7 +1224,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[阴险]",
       "icon": {
-        "path": "./icons/阴险.png",
+        "path": "./icons/阴险-yx.png",
       },
       "mods": {
         "ctrl": {
@@ -1238,7 +1238,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[难过]",
       "icon": {
-        "path": "./icons/难过.png",
+        "path": "./icons/难过-ng.png",
       },
       "mods": {
         "ctrl": {
@@ -1252,7 +1252,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[骷髅]",
       "icon": {
-        "path": "./icons/骷髅.png",
+        "path": "./icons/骷髅-kl.png",
       },
       "mods": {
         "ctrl": {
@@ -1266,7 +1266,7 @@ exports[`index entry > query string is empty 1`] = `
     {
       "arg": "[鼓掌]",
       "icon": {
-        "path": "./icons/鼓掌.png",
+        "path": "./icons/鼓掌-gz.png",
       },
       "mods": {
         "ctrl": {
@@ -1276,6 +1276,27 @@ exports[`index entry > query string is empty 1`] = `
       },
       "subtitle": "鼓掌",
       "title": "鼓掌",
+    },
+  ],
+}
+`;
+
+exports[`index entry > query with keyword 1`] = `
+{
+  "items": [
+    {
+      "arg": "[旺柴]",
+      "icon": {
+        "path": "./icons/旺柴-wc.png",
+      },
+      "mods": {
+        "ctrl": {
+          "arg": "[旺柴]",
+          "subtitle": "Copy and paste",
+        },
+      },
+      "subtitle": "旺柴",
+      "title": "旺柴",
     },
   ],
 }
