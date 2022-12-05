@@ -4,10 +4,21 @@
 <dict>
 	<key>bundleid</key>
 	<string>nauxscript.workflow.alfred-wechat-stickers</string>
-	<key>category</key>
-	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
+		<key>09857D2F-1057-4384-8BF6-74F4AD3014E2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<array>
 			<dict>
@@ -100,9 +111,36 @@
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>
+					{{update_script}}
+				</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+  <string><![CDATA[
+  {{readme}}
+  ]]></string>
 	<key>uidata</key>
 	<dict>
 		<key>09857D2F-1057-4384-8BF6-74F4AD3014E2</key>
@@ -119,9 +157,20 @@
 			<key>ypos</key>
 			<integer>170</integer>
 		</dict>
+		<key>5792546E-9F7A-45BA-8D4B-911714944E49</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>OneUpdater</string>
+			<key>xpos</key>
+			<integer>725</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
 	</dict>
 	<key>version</key>
-  <string>{{version}}</string>
+	<string>0.0.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/Nauxscript/alfred-wechat-stickers</string>
 </dict>
