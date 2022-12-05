@@ -1,7 +1,7 @@
 {
   "name": "alfred-wechat-sticker",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "author": "Nauxscript",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "lint:fix": "eslint . --fix",
     "test": "vitest",
     "build": "unbuild",
-    "release": "bumpp package.json",
+    "release": "bumpp package.json --commit --push --tag ",
     "release:test": "pnpm build && ./build.sh",
     "build:icons": "ts-node --esm ./scripts/image2data.ts"
   },
