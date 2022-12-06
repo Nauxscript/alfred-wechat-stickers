@@ -26,7 +26,9 @@ Notice: This workflow relies on JXA (JavaScript for Automation) that is built in
 
 ## Credits
 
-This project is inspired by [alfred-emoji](https://github.com/jsumners/alfred-emoji). [alfred-emoji](https://github.com/jsumners/alfred-emoji) is a awesome and useful workflow has saved a lot of my time. And I learned a lot from [alfred-emoji](https://github.com/jsumners/alfred-emoji) during development of my workflow。
+This project is inspired by [alfred-emoji](https://github.com/jsumners/alfred-emoji). [alfred-emoji](https://github.com/jsumners/alfred-emoji) is a awesome and useful workflow has saved a lot of my time in pick the a right emoji quikly. In order to solve the same problem in using wechat sticker, I made this workflow Alfred-wechat-stickers. And I learned a lot from [alfred-emoji](https://github.com/jsumners/alfred-emoji) during development of my workflow。
+
+该项目是受 [alfred-emoji](https://github.com/jsumners/alfred-emoji) 启发而开发的。[alfred-emoji](https://github.com/jsumners/alfred-emoji) 是一个牛逼的 Workflow，节省了我大量的找 emoji 表情的时间。为了解决在使用微信表情时出现的同样问题，便有了这个 Workflow。同时在开发这个 Workflow 过程中，我也从 [alfred-emoji](https://github.com/jsumners/alfred-emoji) 中学到了很多知识。
 
 # License
 
