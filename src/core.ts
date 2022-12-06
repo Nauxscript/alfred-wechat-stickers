@@ -12,7 +12,7 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
     return {
       uid: name,
       title: name,
-      subtitle: name,
+      subtitle: `粘贴“[${name}]”到当前应用中`,
       arg: `[${name}]`,
       icon: {
         path: `${iconPath}/${key}.png`,
@@ -20,7 +20,7 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
       mods: {
         ctrl: {
           arg: `[${name}]`,
-          subtitle: 'Copy and paste',
+          subtitle: `复制“[${name}]”到剪切板中`,
         },
       },
     }

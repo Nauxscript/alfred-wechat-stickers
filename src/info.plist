@@ -31,6 +31,29 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>593EE2CA-735D-4E27-946D-0B068037202E</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>593EE2CA-735D-4E27-946D-0B068037202E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -43,6 +66,50 @@
 	<string>Wechat Stickers Search</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>09857D2F-1057-4384-8BF6-74F4AD3014E2</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>
+					{{update_script}}
+				</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -96,7 +163,7 @@
 			<key>config</key>
 			<dict>
 				<key>autopaste</key>
-				<true/>
+				<false/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
 				<key>ignoredynamicplaceholders</key>
@@ -107,38 +174,13 @@
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>09857D2F-1057-4384-8BF6-74F4AD3014E2</string>
+			<string>593EE2CA-735D-4E27-946D-0B068037202E</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>script</key>
-				<string>
-					{{update_script}}
-				</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
 	</array>
 	<key>readme</key>
-  <string><![CDATA[
+	<string><![CDATA[
   {{readme}}
   ]]></string>
 	<key>uidata</key>
@@ -146,9 +188,9 @@
 		<key>09857D2F-1057-4384-8BF6-74F4AD3014E2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>495</integer>
 			<key>ypos</key>
-			<integer>170</integer>
+			<integer>55</integer>
 		</dict>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<dict>
@@ -168,9 +210,16 @@
 			<key>ypos</key>
 			<integer>170</integer>
 		</dict>
+		<key>593EE2CA-735D-4E27-946D-0B068037202E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>340</integer>
+		</dict>
 	</dict>
 	<key>version</key>
-	<string>0.0.2</string>
+	<string>{{version}}</string>
 	<key>webaddress</key>
 	<string>https://github.com/Nauxscript/alfred-wechat-stickers</string>
 </dict>

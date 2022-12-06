@@ -3,6 +3,7 @@ export interface Sticker {
 }
 
 export interface AlfredSelection {
+  uid: string;
   title: string;
   subtitle: string;
   arg: string;
