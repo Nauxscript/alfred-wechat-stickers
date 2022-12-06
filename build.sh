@@ -9,9 +9,6 @@ set -e
 cd $(dirname $0)
 parentDir=$(pwd)
 
-# rm -rf release
-# mkdir release 
-
 cd dist
 echo "setup files ..."
 cp ${parentDir}/src/info.plist ./ 

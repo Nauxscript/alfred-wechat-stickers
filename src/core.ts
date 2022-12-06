@@ -27,9 +27,6 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
   })
 }
 
-// return {
-//     }
-
 export const searchWithKeyword = (query: string) => {
   const keywordRes = Object.keys(keywordMap).reduce((prev, curr) => {
     if (curr.includes(query))
