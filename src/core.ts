@@ -10,6 +10,7 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
   return stickers.map((key) => {
     const name = key.split('-')[0]
     return {
+      uid: name,
       title: name,
       subtitle: name,
       arg: `[${name}]`,
