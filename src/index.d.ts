@@ -19,7 +19,3 @@ export interface AlfredSelection {
   },
   mods: Record<ModifiedKeys, Mode>
 }
-
-declare global {
-  const Application: any
-}

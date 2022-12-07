@@ -42,6 +42,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>56550C69-9E51-48D9-8983-7CD96F401F27</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Nauxscript</string>

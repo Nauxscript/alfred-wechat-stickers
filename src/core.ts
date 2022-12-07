@@ -1,13 +1,10 @@
-// import '@jxa/global-type'
-// import { Application } from '@jxa/types'
+import '@jxa/global-type'
 import type { AlfredSelection } from './index.d'
 import keywordMap from './keywordMap'
 // import stickersData from './stickersData.json'
 import stickersData from './stickersData'
 import type { Keys } from './stickersData'
 const iconPath = './icons'
-// const allStickersData = JSON.parse(JSON.stringify(stickersData.data)) as Sticker[]
-
 const app = Application.currentApplication()
 app.includeStandardAdditions = true
 const parentPath = app.doShellScript('pwd')
