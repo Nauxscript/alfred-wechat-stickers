@@ -23,9 +23,9 @@ echo "Updating version ..."
 curVersion=$(node -e "console.log(require('${parentDir}/package.json').version)")
 sed -i '' 's/{{version}}/'${curVersion}'/' ./info.plist
 
-# echo "Injecting readme ..."
-# readme="${parentDir}/src/Readme.md"
-# sed -i '' -e "/{{readme}}/{r ${readme}" -e 'd' -e '}' ./info.plist
+echo "Injecting readme ..."
+readme="${parentDir}/src/README.md"
+sed -i '' -e "/{{readme}}/{r ${readme}" -e 'd' -e '}' ./info.plist
 
 echo "Injecting auto-update script ..."
 update="$(mktemp)"
