@@ -33,6 +33,12 @@ update="$(mktemp)"
 cat ${parentDir}/src/update.sh | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' > ${update}
 sed -i '' -e "/{{update_script}}/{r ${update}" -e 'd' -e '}' ./info.plist
  
+echo "Injecting copy script ..."
+copy="$(mktemp)"
+# s/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g => repalce '&' '<' '>'
+cat ${parentDir}/src/copy.sh | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' > ${copy}
+sed -i '' -e "/{{copy_script}}/{r ${copy}" -e 'd' -e '}' ./info.plist
+
 echo "Bundling workflow ..."
 name=$(node -e "console.log(require('${parentDir}/package.json').name)")
 zip -Z deflate -rq9 ${parentDir}/${name}.alfredworkflow * -x etc

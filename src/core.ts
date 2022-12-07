@@ -1,4 +1,5 @@
-import { Application } from '@jxa/types'
+// import '@jxa/global-type'
+// import { Application } from '@jxa/types'
 import type { AlfredSelection } from './index.d'
 import keywordMap from './keywordMap'
 // import stickersData from './stickersData.json'
@@ -6,6 +7,10 @@ import stickersData from './stickersData'
 import type { Keys } from './stickersData'
 const iconPath = './icons'
 // const allStickersData = JSON.parse(JSON.stringify(stickersData.data)) as Sticker[]
+
+const app = Application.currentApplication()
+app.includeStandardAdditions = true
+const parentPath = app.doShellScript('pwd')
 
 export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelection[] => {
   return stickers.map((key) => {
@@ -22,6 +27,10 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
         ctrl: {
           arg: `[${name}]`,
           subtitle: `复制“[${name}]”到剪切板中`,
+        },
+        alt: {
+          arg: `${parentPath}/icons/${key}.png`,
+          subtitle: 'Copy to clipboard',
         },
       },
     }

@@ -2,6 +2,13 @@ export interface Sticker {
   key: string;
 }
 
+export interface Mode {
+  arg: string;
+  subtitle: string;
+}
+
+export type ModifiedKeys = 'ctrl' | 'alt'
+
 export interface AlfredSelection {
   uid: string;
   title: string;
@@ -10,10 +17,9 @@ export interface AlfredSelection {
   icon: {
     path: string; 
   },
-  mods: {
-    ctrl: {
-      arg: string;
-      subtitle: string;
-    },
-  }
+  mods: Record<ModifiedKeys, Mode>
+}
+
+declare global {
+  const Application: any
 }
