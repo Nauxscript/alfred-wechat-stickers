@@ -1,3 +1,4 @@
+import { Application } from '@jxa/types'
 import type { AlfredSelection } from './index.d'
 import keywordMap from './keywordMap'
 // import stickersData from './stickersData.json'
