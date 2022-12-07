@@ -11,11 +11,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[Emm]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[Emm]”到剪切板中",
         },
       },
-      "subtitle": "Emm",
+      "subtitle": "粘贴“[Emm]”到当前应用中",
       "title": "Emm",
+      "uid": "Emm",
     },
     {
       "arg": "[OK]",
@@ -25,11 +26,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[OK]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[OK]”到剪切板中",
         },
       },
-      "subtitle": "OK",
+      "subtitle": "粘贴“[OK]”到当前应用中",
       "title": "OK",
+      "uid": "OK",
     },
     {
       "arg": "[亲亲]",
@@ -39,11 +41,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[亲亲]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[亲亲]”到剪切板中",
         },
       },
-      "subtitle": "亲亲",
+      "subtitle": "粘贴“[亲亲]”到当前应用中",
       "title": "亲亲",
+      "uid": "亲亲",
     },
     {
       "arg": "[便便]",
@@ -53,11 +56,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[便便]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[便便]”到剪切板中",
         },
       },
-      "subtitle": "便便",
+      "subtitle": "粘贴“[便便]”到当前应用中",
       "title": "便便",
+      "uid": "便便",
     },
     {
       "arg": "[偷笑]",
@@ -67,11 +71,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[偷笑]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[偷笑]”到剪切板中",
         },
       },
-      "subtitle": "偷笑",
+      "subtitle": "粘贴“[偷笑]”到当前应用中",
       "title": "偷笑",
+      "uid": "偷笑",
     },
     {
       "arg": "[傲慢]",
@@ -81,11 +86,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[傲慢]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[傲慢]”到剪切板中",
         },
       },
-      "subtitle": "傲慢",
+      "subtitle": "粘贴“[傲慢]”到当前应用中",
       "title": "傲慢",
+      "uid": "傲慢",
     },
     {
       "arg": "[再见]",
@@ -95,11 +101,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[再见]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[再见]”到剪切板中",
         },
       },
-      "subtitle": "再见",
+      "subtitle": "粘贴“[再见]”到当前应用中",
       "title": "再见",
+      "uid": "再见",
     },
     {
       "arg": "[凋谢]",
@@ -109,11 +116,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[凋谢]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[凋谢]”到剪切板中",
         },
       },
-      "subtitle": "凋谢",
+      "subtitle": "粘贴“[凋谢]”到当前应用中",
       "title": "凋谢",
+      "uid": "凋谢",
     },
     {
       "arg": "[加油]",
@@ -123,11 +131,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[加油]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[加油]”到剪切板中",
         },
       },
-      "subtitle": "加油",
+      "subtitle": "粘贴“[加油]”到当前应用中",
       "title": "加油",
+      "uid": "加油",
     },
     {
       "arg": "[勾引]",
@@ -137,11 +146,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[勾引]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[勾引]”到剪切板中",
         },
       },
-      "subtitle": "勾引",
+      "subtitle": "粘贴“[勾引]”到当前应用中",
       "title": "勾引",
+      "uid": "勾引",
     },
     {
       "arg": "[发呆]",
@@ -151,11 +161,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[发呆]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[发呆]”到剪切板中",
         },
       },
-      "subtitle": "发呆",
+      "subtitle": "粘贴“[发呆]”到当前应用中",
       "title": "发呆",
+      "uid": "发呆",
     },
     {
       "arg": "[发怒]",
@@ -165,11 +176,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[发怒]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[发怒]”到剪切板中",
         },
       },
-      "subtitle": "发怒",
+      "subtitle": "粘贴“[发怒]”到当前应用中",
       "title": "发怒",
+      "uid": "发怒",
     },
     {
       "arg": "[发抖]",
@@ -179,11 +191,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[发抖]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[发抖]”到剪切板中",
         },
       },
-      "subtitle": "发抖",
+      "subtitle": "粘贴“[发抖]”到当前应用中",
       "title": "发抖",
+      "uid": "发抖",
     },
     {
       "arg": "[可怜]",
@@ -193,11 +206,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[可怜]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[可怜]”到剪切板中",
         },
       },
-      "subtitle": "可怜",
+      "subtitle": "粘贴“[可怜]”到当前应用中",
       "title": "可怜",
+      "uid": "可怜",
     },
     {
       "arg": "[右哼哼]",
@@ -207,11 +221,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[右哼哼]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[右哼哼]”到剪切板中",
         },
       },
-      "subtitle": "右哼哼",
+      "subtitle": "粘贴“[右哼哼]”到当前应用中",
       "title": "右哼哼",
+      "uid": "右哼哼",
     },
     {
       "arg": "[吃瓜]",
@@ -221,11 +236,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[吃瓜]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[吃瓜]”到剪切板中",
         },
       },
-      "subtitle": "吃瓜",
+      "subtitle": "粘贴“[吃瓜]”到当前应用中",
       "title": "吃瓜",
+      "uid": "吃瓜",
     },
     {
       "arg": "[吐]",
@@ -235,11 +251,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[吐]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[吐]”到剪切板中",
         },
       },
-      "subtitle": "吐",
+      "subtitle": "粘贴“[吐]”到当前应用中",
       "title": "吐",
+      "uid": "吐",
     },
     {
       "arg": "[呲牙]",
@@ -249,11 +266,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[呲牙]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[呲牙]”到剪切板中",
         },
       },
-      "subtitle": "呲牙",
+      "subtitle": "粘贴“[呲牙]”到当前应用中",
       "title": "呲牙",
+      "uid": "呲牙",
     },
     {
       "arg": "[咒骂]",
@@ -263,11 +281,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[咒骂]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[咒骂]”到剪切板中",
         },
       },
-      "subtitle": "咒骂",
+      "subtitle": "粘贴“[咒骂]”到当前应用中",
       "title": "咒骂",
+      "uid": "咒骂",
     },
     {
       "arg": "[咖啡]",
@@ -277,11 +296,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[咖啡]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[咖啡]”到剪切板中",
         },
       },
-      "subtitle": "咖啡",
+      "subtitle": "粘贴“[咖啡]”到当前应用中",
       "title": "咖啡",
+      "uid": "咖啡",
     },
     {
       "arg": "[哇]",
@@ -291,11 +311,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[哇]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[哇]”到剪切板中",
         },
       },
-      "subtitle": "哇",
+      "subtitle": "粘贴“[哇]”到当前应用中",
       "title": "哇",
+      "uid": "哇",
     },
     {
       "arg": "[啤酒]",
@@ -305,11 +326,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[啤酒]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[啤酒]”到剪切板中",
         },
       },
-      "subtitle": "啤酒",
+      "subtitle": "粘贴“[啤酒]”到当前应用中",
       "title": "啤酒",
+      "uid": "啤酒",
     },
     {
       "arg": "[嘘]",
@@ -319,11 +341,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[嘘]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[嘘]”到剪切板中",
         },
       },
-      "subtitle": "嘘",
+      "subtitle": "粘贴“[嘘]”到当前应用中",
       "title": "嘘",
+      "uid": "嘘",
     },
     {
       "arg": "[嘴唇]",
@@ -333,11 +356,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[嘴唇]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[嘴唇]”到剪切板中",
         },
       },
-      "subtitle": "嘴唇",
+      "subtitle": "粘贴“[嘴唇]”到当前应用中",
       "title": "嘴唇",
+      "uid": "嘴唇",
     },
     {
       "arg": "[嘿哈]",
@@ -347,11 +371,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[嘿哈]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[嘿哈]”到剪切板中",
         },
       },
-      "subtitle": "嘿哈",
+      "subtitle": "粘贴“[嘿哈]”到当前应用中",
       "title": "嘿哈",
+      "uid": "嘿哈",
     },
     {
       "arg": "[囧]",
@@ -361,11 +386,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[囧]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[囧]”到剪切板中",
         },
       },
-      "subtitle": "囧",
+      "subtitle": "粘贴“[囧]”到当前应用中",
       "title": "囧",
+      "uid": "囧",
     },
     {
       "arg": "[困]",
@@ -375,11 +401,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[困]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[困]”到剪切板中",
         },
       },
-      "subtitle": "困",
+      "subtitle": "粘贴“[困]”到当前应用中",
       "title": "困",
+      "uid": "困",
     },
     {
       "arg": "[坏笑]",
@@ -389,11 +416,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[坏笑]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[坏笑]”到剪切板中",
         },
       },
-      "subtitle": "坏笑",
+      "subtitle": "粘贴“[坏笑]”到当前应用中",
       "title": "坏笑",
+      "uid": "坏笑",
     },
     {
       "arg": "[大哭]",
@@ -403,11 +431,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[大哭]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[大哭]”到剪切板中",
         },
       },
-      "subtitle": "大哭",
+      "subtitle": "粘贴“[大哭]”到当前应用中",
       "title": "大哭",
+      "uid": "大哭",
     },
     {
       "arg": "[天啊]",
@@ -417,11 +446,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[天啊]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[天啊]”到剪切板中",
         },
       },
-      "subtitle": "天啊",
+      "subtitle": "粘贴“[天啊]”到当前应用中",
       "title": "天啊",
+      "uid": "天啊",
     },
     {
       "arg": "[太阳]",
@@ -431,11 +461,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[太阳]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[太阳]”到剪切板中",
         },
       },
-      "subtitle": "太阳",
+      "subtitle": "粘贴“[太阳]”到当前应用中",
       "title": "太阳",
+      "uid": "太阳",
     },
     {
       "arg": "[奸笑]",
@@ -445,11 +476,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[奸笑]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[奸笑]”到剪切板中",
         },
       },
-      "subtitle": "奸笑",
+      "subtitle": "粘贴“[奸笑]”到当前应用中",
       "title": "奸笑",
+      "uid": "奸笑",
     },
     {
       "arg": "[好的]",
@@ -459,11 +491,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[好的]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[好的]”到剪切板中",
         },
       },
-      "subtitle": "好的",
+      "subtitle": "粘贴“[好的]”到当前应用中",
       "title": "好的",
+      "uid": "好的",
     },
     {
       "arg": "[委屈]",
@@ -473,11 +506,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[委屈]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[委屈]”到剪切板中",
         },
       },
-      "subtitle": "委屈",
+      "subtitle": "粘贴“[委屈]”到当前应用中",
       "title": "委屈",
+      "uid": "委屈",
     },
     {
       "arg": "[害羞]",
@@ -487,11 +521,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[害羞]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[害羞]”到剪切板中",
         },
       },
-      "subtitle": "害羞",
+      "subtitle": "粘贴“[害羞]”到当前应用中",
       "title": "害羞",
+      "uid": "害羞",
     },
     {
       "arg": "[尴尬]",
@@ -501,11 +536,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[尴尬]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[尴尬]”到剪切板中",
         },
       },
-      "subtitle": "尴尬",
+      "subtitle": "粘贴“[尴尬]”到当前应用中",
       "title": "尴尬",
+      "uid": "尴尬",
     },
     {
       "arg": "[弱]",
@@ -515,11 +551,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[弱]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[弱]”到剪切板中",
         },
       },
-      "subtitle": "弱",
+      "subtitle": "粘贴“[弱]”到当前应用中",
       "title": "弱",
+      "uid": "弱",
     },
     {
       "arg": "[强]",
@@ -529,11 +566,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[强]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[强]”到剪切板中",
         },
       },
-      "subtitle": "强",
+      "subtitle": "粘贴“[强]”到当前应用中",
       "title": "强",
+      "uid": "强",
     },
     {
       "arg": "[得意]",
@@ -543,11 +581,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[得意]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[得意]”到剪切板中",
         },
       },
-      "subtitle": "得意",
+      "subtitle": "粘贴“[得意]”到当前应用中",
       "title": "得意",
+      "uid": "得意",
     },
     {
       "arg": "[微笑]",
@@ -557,11 +596,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[微笑]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[微笑]”到剪切板中",
         },
       },
-      "subtitle": "微笑",
+      "subtitle": "粘贴“[微笑]”到当前应用中",
       "title": "微笑",
+      "uid": "微笑",
     },
     {
       "arg": "[心碎]",
@@ -571,11 +611,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[心碎]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[心碎]”到剪切板中",
         },
       },
-      "subtitle": "心碎",
+      "subtitle": "粘贴“[心碎]”到当前应用中",
       "title": "心碎",
+      "uid": "心碎",
     },
     {
       "arg": "[快哭了]",
@@ -585,11 +626,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[快哭了]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[快哭了]”到剪切板中",
         },
       },
-      "subtitle": "快哭了",
+      "subtitle": "粘贴“[快哭了]”到当前应用中",
       "title": "快哭了",
+      "uid": "快哭了",
     },
     {
       "arg": "[悠闲]",
@@ -599,11 +641,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[悠闲]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[悠闲]”到剪切板中",
         },
       },
-      "subtitle": "悠闲",
+      "subtitle": "粘贴“[悠闲]”到当前应用中",
       "title": "悠闲",
+      "uid": "悠闲",
     },
     {
       "arg": "[惊恐]",
@@ -613,11 +656,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[惊恐]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[惊恐]”到剪切板中",
         },
       },
-      "subtitle": "惊恐",
+      "subtitle": "粘贴“[惊恐]”到当前应用中",
       "title": "惊恐",
+      "uid": "惊恐",
     },
     {
       "arg": "[惊讶]",
@@ -627,11 +671,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[惊讶]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[惊讶]”到剪切板中",
         },
       },
-      "subtitle": "惊讶",
+      "subtitle": "粘贴“[惊讶]”到当前应用中",
       "title": "惊讶",
+      "uid": "惊讶",
     },
     {
       "arg": "[愉快]",
@@ -641,11 +686,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[愉快]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[愉快]”到剪切板中",
         },
       },
-      "subtitle": "愉快",
+      "subtitle": "粘贴“[愉快]”到当前应用中",
       "title": "愉快",
+      "uid": "愉快",
     },
     {
       "arg": "[憨笑]",
@@ -655,11 +701,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[憨笑]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[憨笑]”到剪切板中",
         },
       },
-      "subtitle": "憨笑",
+      "subtitle": "粘贴“[憨笑]”到当前应用中",
       "title": "憨笑",
+      "uid": "憨笑",
     },
     {
       "arg": "[打脸]",
@@ -669,11 +716,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[打脸]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[打脸]”到剪切板中",
         },
       },
-      "subtitle": "打脸",
+      "subtitle": "粘贴“[打脸]”到当前应用中",
       "title": "打脸",
+      "uid": "打脸",
     },
     {
       "arg": "[抓狂]",
@@ -683,11 +731,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[抓狂]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[抓狂]”到剪切板中",
         },
       },
-      "subtitle": "抓狂",
+      "subtitle": "粘贴“[抓狂]”到当前应用中",
       "title": "抓狂",
+      "uid": "抓狂",
     },
     {
       "arg": "[抠鼻]",
@@ -697,11 +746,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[抠鼻]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[抠鼻]”到剪切板中",
         },
       },
-      "subtitle": "抠鼻",
+      "subtitle": "粘贴“[抠鼻]”到当前应用中",
       "title": "抠鼻",
+      "uid": "抠鼻",
     },
     {
       "arg": "[抱拳]",
@@ -711,11 +761,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[抱拳]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[抱拳]”到剪切板中",
         },
       },
-      "subtitle": "抱拳",
+      "subtitle": "粘贴“[抱拳]”到当前应用中",
       "title": "抱拳",
+      "uid": "抱拳",
     },
     {
       "arg": "[拥抱]",
@@ -725,11 +776,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[拥抱]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[拥抱]”到剪切板中",
         },
       },
-      "subtitle": "拥抱",
+      "subtitle": "粘贴“[拥抱]”到当前应用中",
       "title": "拥抱",
+      "uid": "拥抱",
     },
     {
       "arg": "[拳头]",
@@ -739,11 +791,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[拳头]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[拳头]”到剪切板中",
         },
       },
-      "subtitle": "拳头",
+      "subtitle": "粘贴“[拳头]”到当前应用中",
       "title": "拳头",
+      "uid": "拳头",
     },
     {
       "arg": "[捂脸]",
@@ -753,11 +806,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[捂脸]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[捂脸]”到剪切板中",
         },
       },
-      "subtitle": "捂脸",
+      "subtitle": "粘贴“[捂脸]”到当前应用中",
       "title": "捂脸",
+      "uid": "捂脸",
     },
     {
       "arg": "[握手]",
@@ -767,11 +821,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[握手]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[握手]”到剪切板中",
         },
       },
-      "subtitle": "握手",
+      "subtitle": "粘贴“[握手]”到当前应用中",
       "title": "握手",
+      "uid": "握手",
     },
     {
       "arg": "[撇嘴]",
@@ -781,11 +836,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[撇嘴]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[撇嘴]”到剪切板中",
         },
       },
-      "subtitle": "撇嘴",
+      "subtitle": "粘贴“[撇嘴]”到当前应用中",
       "title": "撇嘴",
+      "uid": "撇嘴",
     },
     {
       "arg": "[擦汗]",
@@ -795,11 +851,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[擦汗]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[擦汗]”到剪切板中",
         },
       },
-      "subtitle": "擦汗",
+      "subtitle": "粘贴“[擦汗]”到当前应用中",
       "title": "擦汗",
+      "uid": "擦汗",
     },
     {
       "arg": "[敲打]",
@@ -809,11 +866,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[敲打]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[敲打]”到剪切板中",
         },
       },
-      "subtitle": "敲打",
+      "subtitle": "粘贴“[敲打]”到当前应用中",
       "title": "敲打",
+      "uid": "敲打",
     },
     {
       "arg": "[旺柴]",
@@ -823,11 +881,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[旺柴]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[旺柴]”到剪切板中",
         },
       },
-      "subtitle": "旺柴",
+      "subtitle": "粘贴“[旺柴]”到当前应用中",
       "title": "旺柴",
+      "uid": "旺柴",
     },
     {
       "arg": "[晕]",
@@ -837,11 +896,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[晕]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[晕]”到剪切板中",
         },
       },
-      "subtitle": "晕",
+      "subtitle": "粘贴“[晕]”到当前应用中",
       "title": "晕",
+      "uid": "晕",
     },
     {
       "arg": "[月亮]",
@@ -851,11 +911,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[月亮]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[月亮]”到剪切板中",
         },
       },
-      "subtitle": "月亮",
+      "subtitle": "粘贴“[月亮]”到当前应用中",
       "title": "月亮",
+      "uid": "月亮",
     },
     {
       "arg": "[机智]",
@@ -865,11 +926,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[机智]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[机智]”到剪切板中",
         },
       },
-      "subtitle": "机智",
+      "subtitle": "粘贴“[机智]”到当前应用中",
       "title": "机智",
+      "uid": "机智",
     },
     {
       "arg": "[汗]",
@@ -879,11 +941,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[汗]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[汗]”到剪切板中",
         },
       },
-      "subtitle": "汗",
+      "subtitle": "粘贴“[汗]”到当前应用中",
       "title": "汗",
+      "uid": "汗",
     },
     {
       "arg": "[流泪]",
@@ -893,11 +956,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[流泪]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[流泪]”到剪切板中",
         },
       },
-      "subtitle": "流泪",
+      "subtitle": "粘贴“[流泪]”到当前应用中",
       "title": "流泪",
+      "uid": "流泪",
     },
     {
       "arg": "[炸弹]",
@@ -907,11 +971,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[炸弹]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[炸弹]”到剪切板中",
         },
       },
-      "subtitle": "炸弹",
+      "subtitle": "粘贴“[炸弹]”到当前应用中",
       "title": "炸弹",
+      "uid": "炸弹",
     },
     {
       "arg": "[爱心]",
@@ -921,11 +986,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[爱心]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[爱心]”到剪切板中",
         },
       },
-      "subtitle": "爱心",
+      "subtitle": "粘贴“[爱心]”到当前应用中",
       "title": "爱心",
+      "uid": "爱心",
     },
     {
       "arg": "[猪头]",
@@ -935,11 +1001,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[猪头]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[猪头]”到剪切板中",
         },
       },
-      "subtitle": "猪头",
+      "subtitle": "粘贴“[猪头]”到当前应用中",
       "title": "猪头",
+      "uid": "猪头",
     },
     {
       "arg": "[玫瑰]",
@@ -949,11 +1016,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[玫瑰]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[玫瑰]”到剪切板中",
         },
       },
-      "subtitle": "玫瑰",
+      "subtitle": "粘贴“[玫瑰]”到当前应用中",
       "title": "玫瑰",
+      "uid": "玫瑰",
     },
     {
       "arg": "[疑问]",
@@ -963,11 +1031,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[疑问]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[疑问]”到剪切板中",
         },
       },
-      "subtitle": "疑问",
+      "subtitle": "粘贴“[疑问]”到当前应用中",
       "title": "疑问",
+      "uid": "疑问",
     },
     {
       "arg": "[發]",
@@ -977,11 +1046,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[發]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[發]”到剪切板中",
         },
       },
-      "subtitle": "發",
+      "subtitle": "粘贴“[發]”到当前应用中",
       "title": "發",
+      "uid": "發",
     },
     {
       "arg": "[白眼]",
@@ -991,11 +1061,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[白眼]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[白眼]”到剪切板中",
         },
       },
-      "subtitle": "白眼",
+      "subtitle": "粘贴“[白眼]”到当前应用中",
       "title": "白眼",
+      "uid": "白眼",
     },
     {
       "arg": "[皱眉]",
@@ -1005,11 +1076,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[皱眉]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[皱眉]”到剪切板中",
         },
       },
-      "subtitle": "皱眉",
+      "subtitle": "粘贴“[皱眉]”到当前应用中",
       "title": "皱眉",
+      "uid": "皱眉",
     },
     {
       "arg": "[睡]",
@@ -1019,11 +1091,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[睡]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[睡]”到剪切板中",
         },
       },
-      "subtitle": "睡",
+      "subtitle": "粘贴“[睡]”到当前应用中",
       "title": "睡",
+      "uid": "睡",
     },
     {
       "arg": "[礼物]",
@@ -1033,11 +1106,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[礼物]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[礼物]”到剪切板中",
         },
       },
-      "subtitle": "礼物",
+      "subtitle": "粘贴“[礼物]”到当前应用中",
       "title": "礼物",
+      "uid": "礼物",
     },
     {
       "arg": "[社会社会]",
@@ -1047,11 +1121,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[社会社会]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[社会社会]”到剪切板中",
         },
       },
-      "subtitle": "社会社会",
+      "subtitle": "粘贴“[社会社会]”到当前应用中",
       "title": "社会社会",
+      "uid": "社会社会",
     },
     {
       "arg": "[福]",
@@ -1061,11 +1136,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[福]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[福]”到剪切板中",
         },
       },
-      "subtitle": "福",
+      "subtitle": "粘贴“[福]”到当前应用中",
       "title": "福",
+      "uid": "福",
     },
     {
       "arg": "[红包]",
@@ -1075,11 +1151,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[红包]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[红包]”到剪切板中",
         },
       },
-      "subtitle": "红包",
+      "subtitle": "粘贴“[红包]”到当前应用中",
       "title": "红包",
+      "uid": "红包",
     },
     {
       "arg": "[胜利]",
@@ -1089,11 +1166,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[胜利]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[胜利]”到剪切板中",
         },
       },
-      "subtitle": "胜利",
+      "subtitle": "粘贴“[胜利]”到当前应用中",
       "title": "胜利",
+      "uid": "胜利",
     },
     {
       "arg": "[色]",
@@ -1103,11 +1181,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[色]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[色]”到剪切板中",
         },
       },
-      "subtitle": "色",
+      "subtitle": "粘贴“[色]”到当前应用中",
       "title": "色",
+      "uid": "色",
     },
     {
       "arg": "[菜刀]",
@@ -1117,11 +1196,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[菜刀]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[菜刀]”到剪切板中",
         },
       },
-      "subtitle": "菜刀",
+      "subtitle": "粘贴“[菜刀]”到当前应用中",
       "title": "菜刀",
+      "uid": "菜刀",
     },
     {
       "arg": "[蛋糕]",
@@ -1131,11 +1211,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[蛋糕]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[蛋糕]”到剪切板中",
         },
       },
-      "subtitle": "蛋糕",
+      "subtitle": "粘贴“[蛋糕]”到当前应用中",
       "title": "蛋糕",
+      "uid": "蛋糕",
     },
     {
       "arg": "[衰]",
@@ -1145,11 +1226,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[衰]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[衰]”到剪切板中",
         },
       },
-      "subtitle": "衰",
+      "subtitle": "粘贴“[衰]”到当前应用中",
       "title": "衰",
+      "uid": "衰",
     },
     {
       "arg": "[调皮]",
@@ -1159,11 +1241,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[调皮]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[调皮]”到剪切板中",
         },
       },
-      "subtitle": "调皮",
+      "subtitle": "粘贴“[调皮]”到当前应用中",
       "title": "调皮",
+      "uid": "调皮",
     },
     {
       "arg": "[跳跳]",
@@ -1173,11 +1256,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[跳跳]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[跳跳]”到剪切板中",
         },
       },
-      "subtitle": "跳跳",
+      "subtitle": "粘贴“[跳跳]”到当前应用中",
       "title": "跳跳",
+      "uid": "跳跳",
     },
     {
       "arg": "[转圈]",
@@ -1187,11 +1271,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[转圈]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[转圈]”到剪切板中",
         },
       },
-      "subtitle": "转圈",
+      "subtitle": "粘贴“[转圈]”到当前应用中",
       "title": "转圈",
+      "uid": "转圈",
     },
     {
       "arg": "[鄙视]",
@@ -1201,11 +1286,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[鄙视]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[鄙视]”到剪切板中",
         },
       },
-      "subtitle": "鄙视",
+      "subtitle": "粘贴“[鄙视]”到当前应用中",
       "title": "鄙视",
+      "uid": "鄙视",
     },
     {
       "arg": "[闭嘴]",
@@ -1215,11 +1301,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[闭嘴]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[闭嘴]”到剪切板中",
         },
       },
-      "subtitle": "闭嘴",
+      "subtitle": "粘贴“[闭嘴]”到当前应用中",
       "title": "闭嘴",
+      "uid": "闭嘴",
     },
     {
       "arg": "[阴险]",
@@ -1229,11 +1316,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[阴险]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[阴险]”到剪切板中",
         },
       },
-      "subtitle": "阴险",
+      "subtitle": "粘贴“[阴险]”到当前应用中",
       "title": "阴险",
+      "uid": "阴险",
     },
     {
       "arg": "[难过]",
@@ -1243,11 +1331,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[难过]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[难过]”到剪切板中",
         },
       },
-      "subtitle": "难过",
+      "subtitle": "粘贴“[难过]”到当前应用中",
       "title": "难过",
+      "uid": "难过",
     },
     {
       "arg": "[骷髅]",
@@ -1257,11 +1346,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[骷髅]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[骷髅]”到剪切板中",
         },
       },
-      "subtitle": "骷髅",
+      "subtitle": "粘贴“[骷髅]”到当前应用中",
       "title": "骷髅",
+      "uid": "骷髅",
     },
     {
       "arg": "[鼓掌]",
@@ -1271,11 +1361,12 @@ exports[`index entry > query string is empty 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[鼓掌]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[鼓掌]”到剪切板中",
         },
       },
-      "subtitle": "鼓掌",
+      "subtitle": "粘贴“[鼓掌]”到当前应用中",
       "title": "鼓掌",
+      "uid": "鼓掌",
     },
   ],
 }
@@ -1292,11 +1383,12 @@ exports[`index entry > query with keyword 1`] = `
       "mods": {
         "ctrl": {
           "arg": "[旺柴]",
-          "subtitle": "Copy and paste",
+          "subtitle": "复制“[旺柴]”到剪切板中",
         },
       },
-      "subtitle": "旺柴",
+      "subtitle": "粘贴“[旺柴]”到当前应用中",
       "title": "旺柴",
+      "uid": "旺柴",
     },
   ],
 }

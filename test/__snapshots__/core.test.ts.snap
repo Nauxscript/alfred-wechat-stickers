@@ -10,11 +10,12 @@ exports[`core test > parseData function is ok 1`] = `
     "mods": {
       "ctrl": {
         "arg": "[旺柴]",
-        "subtitle": "Copy and paste",
+        "subtitle": "复制“[旺柴]”到剪切板中",
       },
     },
-    "subtitle": "旺柴",
+    "subtitle": "粘贴“[旺柴]”到当前应用中",
     "title": "旺柴",
+    "uid": "旺柴",
   },
 ]
 `;
