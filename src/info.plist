@@ -19,8 +19,31 @@
 				<false/>
 			</dict>
 		</array>
+		<key>13D19F01-1E72-4FDC-A860-04B558A1798B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5792546E-9F7A-45BA-8D4B-911714944E49</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>13D19F01-1E72-4FDC-A860-04B558A1798B</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 			<dict>
 				<key>destinationuid</key>
 				<string>09857D2F-1057-4384-8BF6-74F4AD3014E2</string>
@@ -70,6 +93,25 @@
 			<key>config</key>
 			<dict>
 				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>13D19F01-1E72-4FDC-A860-04B558A1798B</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
 				<true/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
@@ -95,7 +137,7 @@
 				<key>script</key>
 				<string>
 					{{update_script}}
-				</string>
+				</string>	
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -188,7 +230,7 @@
 	<key>readme</key>
 	<string><![CDATA[
   {{readme}}
-  ]]></string>
+  ]]></string>	
 	<key>uidata</key>
 	<dict>
 		<key>09857D2F-1057-4384-8BF6-74F4AD3014E2</key>
@@ -197,6 +239,13 @@
 			<integer>500</integer>
 			<key>ypos</key>
 			<integer>170</integer>
+		</dict>
+		<key>13D19F01-1E72-4FDC-A860-04B558A1798B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>30</integer>
 		</dict>
 		<key>1A47A645-DB97-46F0-9591-32B0C3A0DD62</key>
 		<dict>
