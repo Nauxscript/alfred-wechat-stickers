@@ -1,7 +1,6 @@
 import '@jxa/global-type'
 import type { AlfredSelection } from './index.d'
 import keywordMap from './keywordMap'
-// import stickersData from './stickersData.json'
 import stickersData from './stickersData'
 import type { Keys } from './stickersData'
 const iconPath = './icons'
@@ -27,7 +26,7 @@ export const parseData = (stickers: Keys[], iconPath = './icons'): AlfredSelecti
         },
         alt: {
           arg: `${parentPath}/icons/${key}.png`,
-          subtitle: 'Copy to clipboard',
+          subtitle: `复制“[${name}]”的表情图片到剪切板中`,
         },
       },
     }
