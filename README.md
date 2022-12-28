@@ -7,6 +7,7 @@
 <p align="center"><img src="https://github.com/Nauxscript/alfred-wechat-stickers/blob/main/assets/preview.gif"></p>
 
 an Alfred Workflow that makes it easy to pick / copy / input a wechat's stickers.
+
 让你简单快速地输入微信表情包的 Alfred Workflow。
 
 ## Install 安装
