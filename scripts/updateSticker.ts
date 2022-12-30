@@ -7,7 +7,7 @@ let stickerAssetVersion = ''
 
 const unzipFile = (src: string) => {
   const zip = new AdmZip(src)
-  zip.extractAllTo('./icons/')
+  zip.extractAllTo('./')
   console.log('Updated Stickers, Version is ', stickerAssetVersion)
 }
 
@@ -33,8 +33,10 @@ const req = https.request({
     const assetUrl = `https://github.com/Nauxscript/wechat-stickers-data/releases/download/${stickerAssetVersion}/icons.zip`
     console.log('Stickers Assets Url', assetUrl)
     const data = await download(assetUrl)
+    if (fs.existsSync('./icons.zip'))
+      fs.unlinkSync('./icons.zip')
     await fs.promises.writeFile('./icons.zip', data)
-    unzipFile('/icons.zip')
+    unzipFile('./icons.zip')
   })
   console.log('Response StatusCode:', response.statusCode)
 })

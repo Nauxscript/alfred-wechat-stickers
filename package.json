@@ -8,7 +8,7 @@
   "scripts": {
     "lint:fix": "eslint . --fix",
     "test": "vitest",
-    "build": "unbuild",
+    "build": "pnpm run update:icons && pnpm run build:icons && unbuild",
     "release": "bumpp package.json --commit --push --tag ",
     "release:test": "pnpm build && ./build.sh",
     "build:icons": "ts-node --esm ./scripts/image2data.ts",
