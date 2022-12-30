@@ -8,9 +8,10 @@
   "scripts": {
     "lint:fix": "eslint . --fix",
     "test": "vitest",
-    "build": "pnpm run update:icons && pnpm run build:icons && unbuild",
+    "build": "npm run update:icons && npm run build:icons && unbuild",
+    "build:test": "pnpm run update:icons && pnpm run build:icons && unbuild",
     "release": "bumpp package.json --commit --push --tag ",
-    "release:test": "pnpm build && ./build.sh",
+    "release:test": "pnpm build:test && ./build.sh",
     "build:icons": "ts-node --esm ./scripts/image2data.ts",
     "update:icons": "ts-node --esm ./scripts/updateSticker.ts",
     "unzip": "ts-node --esm ./scripts/unzip.ts"
