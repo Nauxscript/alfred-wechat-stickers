@@ -24,7 +24,7 @@ const req = https.request({
     const assetUrl = `https://github.com/Nauxscript/wechat-stickers-data/releases/download/${repoInfo.tag_name}/icons.zip`
     console.log(assetUrl)
     const data = await download(assetUrl)
-    await fs.promises.writeFile('./scripts/icons.zip', data)
+    await fs.promises.writeFile('./icons.zip', data)
   })
   console.log('Response statusCode:', response.statusCode)
 })
