@@ -1,6 +1,15 @@
 import https from 'node:https'
 import fs from 'fs'
 import download from 'download'
+import AdmZip from 'adm-zip'
+
+let stickerAssetVersion = ''
+
+const unzipFile = (src: string) => {
+  const zip = new AdmZip(src)
+  zip.extractAllTo('./icons/')
+  console.log('Updated Stickers, Version is ', stickerAssetVersion)
+}
 
 const req = https.request({
   host: 'api.github.com',
@@ -19,14 +28,15 @@ const req = https.request({
   })
   // called when the complete response is received.
   response.on('end', async () => {
-    console.log('done')
     const repoInfo = JSON.parse(datas) as { tag_name: string }
-    const assetUrl = `https://github.com/Nauxscript/wechat-stickers-data/releases/download/${repoInfo.tag_name}/icons.zip`
-    console.log(assetUrl)
+    stickerAssetVersion = repoInfo.tag_name
+    const assetUrl = `https://github.com/Nauxscript/wechat-stickers-data/releases/download/${stickerAssetVersion}/icons.zip`
+    console.log('Stickers Assets Url', assetUrl)
     const data = await download(assetUrl)
     await fs.promises.writeFile('./icons.zip', data)
+    unzipFile('/icons.zip')
   })
-  console.log('Response statusCode:', response.statusCode)
+  console.log('Response StatusCode:', response.statusCode)
 })
 
 req.on('error', (error) => {
