@@ -30,6 +30,11 @@ const req = https.request({
   response.on('end', async () => {
     const repoInfo = JSON.parse(datas) as { tag_name: string }
     stickerAssetVersion = repoInfo.tag_name
+    if (!stickerAssetVersion) {
+      console.log(datas)
+      throw new Error('Have not get the correct sticker repo info')
+    }
+
     const assetUrl = `https://github.com/Nauxscript/wechat-stickers-data/releases/download/${stickerAssetVersion}/icons.zip`
     console.log('Stickers Assets Url', assetUrl)
     const data = await download(assetUrl)
