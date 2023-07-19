@@ -24,7 +24,7 @@ an Alfred Workflow that makes it easy to pick / copy / input a wechat's stickers
 - opt 键 + 回车键（⌥ ↵）：复制对应选项的微信表情图片文件到剪切板中。
 
 Notice: This workflow relies on JXA (JavaScript for Automation) that is built into macOS.
-注意：该 Workflow 以来与 MacOS 内建的 JXA 功能。
+注意：该 Workflow 依赖与 MacOS 内建的 JXA 功能。
 
 ## Credits
 
